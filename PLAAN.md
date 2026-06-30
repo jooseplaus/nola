@@ -5,64 +5,76 @@ Soome Meta (Facebook/Instagram) reklaamide jaoks automaatselt iga tund uuenev to
 
 ---
 
-## Leitud probleemid (lahendada enne hostingut)
+## Kuidas süsteem töötab (lõplik lahendus)
 
-- [ ] **Sisu on eesti keeles, mitte soome keeles** — `/fi/` lehe OG-tagide tõmbamine kas ei tööta või saidil puuduvad soome tõlked. Kriitilisem probleem.
-- [ ] **Double-escaping `product_type` väljas** — WooCommerce API tagastab kategooriate nimed HTML-encoded kujul (`&amp;`), kood teeb neile veel korra escape'i → Meta saab `&amp;amp;`. Lahendus: lisada `html.unescape()` enne XML-i kirjutamist.
-- [ ] **`TIME_BUDGET = 28 sek` limiit tuleb eemaldada** — praegu katkestab OG-tagide tõmbamise 28 sekundi järel (oli sandbox-limiit). Tootmises peab kogu kataloog läbi käima.
-- [ ] **Impordid on faili keskel (rida 210)** — `import json, os, time` peaks olema faili alguses.
-- [ ] **`/fi/toode/` vs `/fi/tuote/`** — kontrollida kas soome lingid töötavad (eesti "toode" vs soome "tuote").
+```
+nola.ee WooCommerce          GitHub Actions               Meta
+─────────────────────        ──────────────────           ────────────────
+Store API (tooted,     →     Iga tunni alguses      →     Commerce Manager
+hinnad, pildid,              käivitab Python              tõmbab XML-i iga
+laoseis, SKU)                skripti. Skript              tund automaatselt
+                             küsib iga toote              ja uuendab
+/fi/toode/... lehed   →     soome lehe JSON-LD     →     kataloogireklaamid
+(soome tõlked               andmeid (nimi +               reaalajas.
+JSON-LD formaadis)          kirjeldus soome k.)
+                             Kirjutab XML-i ja
+                             push'ib GitHubi.
+```
+
+**Avalik feed URL (turundajale anda):**
+```
+https://jooseplaus.github.io/nola/nola_meta_feed_fi.xml
+```
+
+**Feed uueneb:** iga tund automaatselt, ilma et keegi midagi tegema peaks.
+
+**Repo:** `github.com/jooseplaus/nola`
+
+---
+
+## Leitud probleemid ja lahendused
+
+- [x] **Sisu oli eesti keeles** — Nola sait kasutab OG-tagide asemel JSON-LD formaati. Skript kirjutati ümber JSON-LD parseriga → 150/150 toodet soome keeles.
+- [x] **Double-escaping `product_type` väljas** — lisati `html.unescape()` kategooriate nimedele.
+- [x] **`TIME_BUDGET = 28 sek` limiit** — eemaldatud, skript käib kõik tooted lõpuni läbi.
+- [x] **Impordid faili keskel** — koondatud faili ülaossa.
+- [x] **`/fi/toode/` lingid** — kontrollitud, töötavad (eestikeelne "toode" slug toimib soome lehel).
+- [x] **24 paralleelset threadi throttle'is serveri** — vähendatud 6-le, timeout 15s → 30s. Cache proovib `None` tulemusi uuesti järgmisel käivitusel.
 
 ---
 
 ## Sammud
 
-### Samm 1 — Uurime kas soome tõlked on olemas
-- Käivita skript ja vaata mis `og_cache.json` sisse tuleb
-- Kui `title` ja `desc` on `null` enamike toodete juures, siis saidil pole tõlkeid
+### ✅ Samm 1 — Soome tõlgete olemasolu kontrollimine
+Nola saidil on soome tõlked olemas. `/fi/toode/kleit-alice/` → "Mekko Alice", kirjeldus soome keeles.
+Tõlked on JSON-LD `<script type="application/ld+json">` blokkides, mitte OG-tagides.
 
-**Kolm varianti:**
-- **A) Kasutame eestikeelset sisu** — lihtsaim, aga ei ole ideaalne Soome turule
-- **B) Klient lisab soome tõlked WooCommerce'i** — parim lahendus, aga nõuab kliendipoolset tööd
-- **C) Automaattõlge (nt DeepL API)** — kesktee, lisab kulu ja keerukust
+### ✅ Samm 2 — Koodivigade parandamine
+Kõik vead parandatud. Skript genereerib 150 toodet soome keeles õigete hindade ja linkidega.
 
-### Samm 2 — Parandame koodivead
-- Fix `product_type` double-escaping
-- Eemalda `TIME_BUDGET` piirang
-- Kogu impordid faili ülaossa
-- Kontrolli `/fi/toode/` linkide toimimist
+### ✅ Samm 3 — Testimine live andmetega
+150/150 toodet soome keeles. Hinnad, soodushinnad, pildid, lingid — kõik korras.
 
-### Samm 3 — Testimine
-- Käivita skript päriselt vastu Nola live API-t
-- Kontrolli: mitu toodet tuleb välja, kas hinnad on õiged, kas lingid töötavad
-- Vaata genereeritud XML läbi Meta feedivalidaatoriga
+### ✅ Samm 4 — Hosting seadistatud
+- GitHub Actions workflow (`.github/workflows/feed.yml`) käivitab skripti iga tund
+- GitHub Pages serveerib XML-i avalikul URL-il
+- Feed aadress: `https://jooseplaus.github.io/nola/nola_meta_feed_fi.xml`
 
-### Samm 4 — Hosting (avalik URL Meta jaoks)
-Feed peab olema avalikul URL-il, mida Meta iga tund tõmbab.
-
-**Soovitus: GitHub Actions + GitHub Pages** (tasuta, serverit pole vaja)
-- GitHub Action käivitab skripti iga tund (`cron: '0 * * * *'`)
-- Genereeritud XML push'itakse GitHub Pages'i → avalik URL
-
-**Alternatiiv: VPS cron**
-```cron
-0 * * * * cd /opt/nola-feed && rm -f products.json og_cache.json && python3 nola_meta_feed.py && cp nola_meta_feed_fi.xml /var/www/html/nola_meta_feed_fi.xml
-```
-
-### Samm 5 — Meta Commerce Manager seadistus (ühekordne, ~5 min)
-1. Commerce Manager → **Catalogs** → loo kataloog (tüüp: E-commerce)
+### Samm 5 — Meta Commerce Manager seadistus (turundaja teeb)
+1. Commerce Manager → **Catalogs** → loo kataloog (tüüp: E-commerce, nimi: "Nola Studio - Suomi")
 2. **Data sources** → **Add items** → **Use a bulk upload** → **Scheduled feed**
-3. Kleebi feedi URL, vali **Hourly**, valuuta **EUR**, keel **Soome**
-4. Salvesta → Meta tõmbab esimese korra kohe, edaspidi iga tund
-5. Seo kataloog Nola Pixeliga (`516887102482798`) → töötab dünaamiline retargeting
+3. Sisesta URL: `https://jooseplaus.github.io/nola/nola_meta_feed_fi.xml`
+4. Vali: **Hourly**, valuuta **EUR**, keel **Finnish**
+5. Salvesta → Meta tõmbab esimese korra kohe
+6. Seo kataloog Nola Pixeliga (`516887102482798`) → töötab dünaamiline retargeting
 
 ---
 
 ## Lahtised küsimused
 
-- [ ] Kas Nola saidil on soome tõlked WooCommerce'is olemas?
-- [ ] Eesti turg: kas Eesti tooted ka samasse kataloogi või eraldi? *(Soovitus: eraldi kataloogid)*
-- [ ] Hosting: kas on olemas VPS/server või eelistame serverless lahendust (GitHub Actions)?
+- [x] Kas Nola saidil on soome tõlked? — **Jah, on olemas**
+- [x] Hosting — **GitHub Actions + Pages, tasuta**
+- [ ] Eesti turg: kas Eesti tooted ka kataloogi? *(Soovitus: eraldi kataloog, eraldi skripti käivitus)*
 
 ---
 
@@ -70,8 +82,8 @@ Feed peab olema avalikul URL-il, mida Meta iga tund tõmbab.
 
 | Samm | Staatus |
 |------|---------|
-| Soome tõlgete olemasolu kontrollimine | Tegemata |
-| Koodivigade parandamine | Tegemata |
-| Testimine live andmetega | Tegemata |
-| Hosting seadistamine | Tegemata |
-| Meta Commerce Manager seadistus | Tegemata |
+| Soome tõlgete olemasolu kontrollimine | ✅ Valmis |
+| Koodivigade parandamine | ✅ Valmis |
+| Testimine live andmetega | ✅ Valmis |
+| Hosting seadistamine (GitHub Actions + Pages) | ✅ Valmis |
+| Meta Commerce Manager seadistus | Turundaja teeb |
