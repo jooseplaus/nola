@@ -1,0 +1,4 @@
+products.json
+og_cache.json
+__pycache__/
+*.pyc
