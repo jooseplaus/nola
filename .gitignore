@@ -1,5 +1,6 @@
 products.json
 og_cache.json
+og_cache_fi.json
 __pycache__/
 *.pyc
 .DS_Store

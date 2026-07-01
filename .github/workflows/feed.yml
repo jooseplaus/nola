@@ -21,14 +21,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Generate feed
-        run: python nola_meta_feed.py
+      - name: Generate Finnish feed
+        run: python nola_meta_feed.py --lang fi
 
-      - name: Commit & push feed
+      - name: Generate Estonian feed
+        run: python nola_meta_feed.py --lang et
+
+      - name: Commit & push feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add nola_meta_feed_fi.xml
+          git add nola_meta_feed_fi.xml nola_meta_feed_et.xml
           git diff --cached --quiet || git commit -m "feed: auto-update $(date -u '+%Y-%m-%d %H:%M') UTC"
           git pull --rebase origin main
           git push

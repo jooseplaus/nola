@@ -1,20 +1,24 @@
 #!/usr/bin/env python3
 """
-Nola -> Meta (Facebook/Instagram) tootefeed, Soome turg.
+Nola -> Meta (Facebook/Instagram) tootefeed.
 
-Loogika:
+Kasutus:
+  python3 nola_meta_feed.py --lang fi   # soome feed (vaikimisi)
+  python3 nola_meta_feed.py --lang et   # eesti feed
+
+Loogika (fi):
   1. Tooted tulevad WooCommerce Store API-st (avalik, ilma autentimiseta).
-     API annab hinnad, pildid, laoseisu, SKU ja toote ID (vaikekeel = eesti).
-  2. Toote ID feedis = "{SKU}_{id}" -> KLAPIB PixelYourSite content_id-ga
-     ({SKU}_{post_id}), mis on dünaamiliste kataloogireklaamide jaoks kriitiline.
-  3. Soomekeelne nimi + kirjeldus tulevad /fi/ lehe JSON-LD (Schema.org) andmetest
-     (Store API ei tagasta tõlkeid; sait ei kasuta OG meta-tagsid).
+  2. Toote ID feedis = "{SKU}_{id}" -> klapib PixelYourSite content_id-ga.
+  3. Soomekeelne nimi + kirjeldus tulevad /fi/ lehe JSON-LD andmetest.
   4. Maandumisleht = /fi/ permalink.
-  5. Väljund: Meta-ühilduv RSS 2.0 XML (g: namespace).
 
-Käivita: python3 nola_meta_feed.py  ->  kirjutab nola_meta_feed_fi.xml
+Loogika (et):
+  1. Sama API, eestikeelne sisu tuleb otse (vaikekeel).
+  2. JSON-LD lehti ei tõmmata — API annab kõik vajaliku.
+  3. Maandumisleht = eesti permalink.
 """
 
+import argparse
 import html
 import json
 import os
@@ -30,13 +34,19 @@ import requests
 BASE = "https://nola.ee"
 STORE_API = f"{BASE}/wp-json/wc/store/v1/products"
 BRAND = "Nola"
-OUTPUT = "nola_meta_feed_fi.xml"
 WORKERS = 6
 TIMEOUT = 30
 
-# --- valikuline filter: lisa feedi ainult need tooted, mida Soomes reklaamitakse.
+# --- valikuline filter: lisa feedi ainult need tooted, mida reklaamitakse.
 # Jäta None-ks -> kogu kataloog. Või pane kategooria-slug'id, nt {"kleidid"}.
 CATEGORY_SLUGS = None
+
+# Keel seadistatakse käsurea argumendiga (--lang fi / --lang et)
+parser = argparse.ArgumentParser()
+parser.add_argument("--lang", choices=["fi", "et"], default="fi")
+LANG = parser.parse_args().lang
+
+OUTPUT = f"nola_meta_feed_{LANG}.xml"
 
 session = requests.Session()
 session.headers.update({"User-Agent": "Nola-Meta-Feed/1.0 (+timeffect)"})
@@ -172,7 +182,7 @@ def build_item(p, fi_title=None, fi_desc=None):
         "id": item_id,
         "title": title,
         "description": desc[:9000],
-        "link": fi_link(p["permalink"]),
+        "link": fi_link(p["permalink"]) if LANG == "fi" else p["permalink"],
         "image_link": images[0],
         "additional_image_link": images[1:10],
         "availability": availability,
@@ -189,14 +199,29 @@ def x(s):
     return sx.escape(str(s)) if s is not None else ""
 
 
+CHANNEL_META = {
+    "fi": {
+        "title": "Nola Studio - Suomi",
+        "link": f"{BASE}/fi/",
+        "description": "Nola Studio tuotesyote Meta-mainontaa varten (Suomi)",
+    },
+    "et": {
+        "title": "Nola Studio - Eesti",
+        "link": f"{BASE}/",
+        "description": "Nola Studio tootefeed Meta reklaamide jaoks (Eesti)",
+    },
+}
+
+
 def render_xml(items):
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+    ch = CHANNEL_META[LANG]
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">',
            '<channel>',
-           '<title>Nola Studio - Suomi</title>',
-           f'<link>{BASE}/fi/</link>',
-           '<description>Nola Studio tuotesyote Meta-mainontaa varten (Suomi)</description>',
+           f'<title>{ch["title"]}</title>',
+           f'<link>{ch["link"]}</link>',
+           f'<description>{ch["description"]}</description>',
            f'<lastBuildDate>{now}</lastBuildDate>']
     for it in items:
         out.append('<item>')
@@ -222,7 +247,7 @@ def render_xml(items):
 
 
 PRODUCTS_CACHE = "products.json"
-OG_CACHE = "og_cache.json"
+OG_CACHE_FI = "og_cache_fi.json"
 
 
 def main():
@@ -238,30 +263,34 @@ def main():
         json.dump(products, open(PRODUCTS_CACHE, "w", encoding="utf-8"))
     print(f"{len(products)} toodet.", file=sys.stderr)
 
-    # 2) Soomekeelne OG-sisu (resumable cache)
-    og = json.load(open(OG_CACHE, encoding="utf-8")) if os.path.exists(OG_CACHE) else {}
-    todo = [p for p in products if og.get(str(p["id"]), {}).get("title") is None]
-    print(f"OG puudu: {len(todo)}", file=sys.stderr)
+    # 2) Tõlked — ainult soome feedi jaoks
+    og = {}
+    if LANG == "fi":
+        og = json.load(open(OG_CACHE_FI, encoding="utf-8")) if os.path.exists(OG_CACHE_FI) else {}
+        todo = [p for p in products if og.get(str(p["id"]), {}).get("title") is None]
+        print(f"OG puudu: {len(todo)}", file=sys.stderr)
 
-    ex = ThreadPoolExecutor(max_workers=WORKERS)
-    futs = {ex.submit(fetch_fi_meta, p["slug"], p["permalink"]): p for p in todo}
-    n = 0
-    for f in as_completed(futs):
-        p = futs[f]
-        try:
-            t, d = f.result()
-        except Exception:
-            t, d = None, None
-        og[str(p["id"])] = {"title": t, "desc": d}
-        n += 1
-        if n % 20 == 0:  # vahesalvestus
-            json.dump(og, open(OG_CACHE, "w", encoding="utf-8"), ensure_ascii=False)
-    ex.shutdown(wait=True)
-    json.dump(og, open(OG_CACHE, "w", encoding="utf-8"), ensure_ascii=False)
-    done = sum(1 for p in products if str(p["id"]) in og)
-    print(f"OG valmis: {done}/{len(products)}", file=sys.stderr)
+        ex = ThreadPoolExecutor(max_workers=WORKERS)
+        futs = {ex.submit(fetch_fi_meta, p["slug"], p["permalink"]): p for p in todo}
+        n = 0
+        for f in as_completed(futs):
+            p = futs[f]
+            try:
+                t, d = f.result()
+            except Exception:
+                t, d = None, None
+            og[str(p["id"])] = {"title": t, "desc": d}
+            n += 1
+            if n % 20 == 0:
+                json.dump(og, open(OG_CACHE_FI, "w", encoding="utf-8"), ensure_ascii=False)
+        ex.shutdown(wait=True)
+        json.dump(og, open(OG_CACHE_FI, "w", encoding="utf-8"), ensure_ascii=False)
+        done = sum(1 for p in products if str(p["id"]) in og)
+        print(f"OG valmis: {done}/{len(products)}", file=sys.stderr)
+    else:
+        print("Eesti feed — API sisu kasutatakse otse, tõlkeid ei tõmmata.", file=sys.stderr)
 
-    # 3) Renderda feed olemasolevast (osaline või täielik)
+    # 3) Renderda feed
     items = []
     for p in products:
         meta = og.get(str(p["id"]), {})
