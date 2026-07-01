@@ -232,6 +232,9 @@ def main():
     else:
         print("Laen tooted Store API-st ...", file=sys.stderr)
         products = fetch_all_products()
+        if not products:
+            print("VIGA: API tagastas 0 toodet — server maas? Katkestan.", file=sys.stderr)
+            sys.exit(1)
         json.dump(products, open(PRODUCTS_CACHE, "w", encoding="utf-8"))
     print(f"{len(products)} toodet.", file=sys.stderr)
 
