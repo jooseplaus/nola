@@ -162,7 +162,8 @@ def build_item(p, fi_title=None, fi_desc=None):
 
     sku = (p.get("sku") or "").strip()
     pid = p["id"]
-    item_id = f"{sku}_{pid}" if sku else str(pid)
+    base_id = f"{sku}_{pid}" if sku else str(pid)
+    item_id = f"{base_id}_fi" if LANG == "fi" else base_id
 
     reg, sale = parse_price_html(p.get("price_html", ""), p.get("prices", {}))
     if not reg:
