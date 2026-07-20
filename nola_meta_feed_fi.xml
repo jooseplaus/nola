@@ -4,7 +4,7 @@
 <title>Nola Studio - Suomi</title>
 <link>https://nola.ee/fi/</link>
 <description>Nola Studio tuotesyote Meta-mainontaa varten (Suomi)</description>
-<lastBuildDate>Mon, 20 Jul 2026 08:33:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 11:32:50 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551_fi</g:id>
 <g:title>Mekko Alice</g:title>
@@ -142,8 +142,8 @@
 </item>
 <item>
 <g:id>ARAN-MEN-MST_31594_fi</g:id>
-<g:title>T-särk Aran</g:title>
-<g:description>Nola ARAN t-särk on oversize mõõdus klassikaline meetse t-särk. Materjal: 95 % vpuuvill 5% elastaan. Pesta 40 kraadises vees. Triikimine lubatud. Tarneaeg: kuni 7 päeva. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus S M L Rinnaümbermõõt 96 99 106 Üldpikkus 65 67 69</g:description>
+<g:title>T-paita Aran</g:title>
+<g:description>Nola ARAN t-paita on klassinen miesten t-paita ylisuuressa koossa. Materiaali: 95% puuvillaa, 5% elastaania. Pesu 40 asteessa. Silitys sallittu. Toimitusaika: jopa 7 päivää. Alennusjakson aikana toimitusaika on jopa 14 päivää. Koko S M L Rinnanympärys 96 99 106 Kokonaispituus 65 67 69</g:description>
 <g:link>https://nola.ee/fi/toode/t-sark-aran-must/</g:link>
 <g:image_link>https://nola.ee/wp-content/uploads/2025/03/DSC04052-scaled.jpeg</g:image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2025/03/DSC04077-scaled.jpg</g:additional_image_link>
@@ -823,20 +823,6 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Naised &gt; T-särgid</g:product_type>
 <g:item_group_id>LIISA-VLG_33497_fi</g:item_group_id>
-</item>
-<item>
-<g:id>LILY-HELELILLA-2_39265_fi</g:id>
-<g:title>Mekko Lily vaaleanvioletti</g:title>
-<g:description>Lily on A-linjainen mekko, jossa on taskut ja tehostehihat. Mekon leveä vartalo varmistaa, että mekko istuu erittäin hyvin erilaisille vartalonmuodoille, mutta jos haluat korostaa esimerkiksi vyötäröä, voit lisätä mekkoon myös vyön. Upeat isot hihat antavat mekolle luonnetta ja persoonallisuutta. Mekkoon on myös mahdollista tilata vyö: https://nola.ee/toode/voo/ Materiaali: 60% viskoosia, 35% polyesteriä, 5% elastaania. Pese nurinpäin käännettynä 30 asteen vedessä. Silitys sallittu matalassa lämpötilassa nurjalta puolelta. Toimitusaika: 7-10 päivää. Suurin osa tuotevalikoimastamme on saatavilla heti, mutta osa valmistetaan tilauksesta. Jos on tärkeää, että saat tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusaikana toimitusaika on jopa 14 päivää. Koko XS S M L XL Rinnanympärys (ihmiskoko) 82-86 87-92 93-98 99-105 106-120 Tuotteen kokonaispituus (cm) 118 119 119 121 122</g:description>
-<g:link>https://nola.ee/fi/toode/kleit-lily-helelilla/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/06/E9A41571-8C5F-4D63-9B6D-C4A619B75697.png</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/06/3B133D1B-A500-4C36-906C-877484F5C476.png</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>159.00 EUR</g:price>
-<g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
-<g:item_group_id>LILY-HELELILLA-2_39265_fi</g:item_group_id>
 </item>
 <item>
 <g:id>LILY-MINI-KHK_28221_fi</g:id>
@@ -2122,7 +2108,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>151.20 EUR</g:sale_price>
+<g:sale_price>132.30 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-HELESININE-1_38221_fi</g:item_group_id>
@@ -2155,7 +2141,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>151.20 EUR</g:sale_price>
+<g:sale_price>132.30 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-ROOSA-1_37985_fi</g:item_group_id>
