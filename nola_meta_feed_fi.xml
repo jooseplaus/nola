@@ -4,7 +4,7 @@
 <title>Nola Studio - Suomi</title>
 <link>https://nola.ee/fi/</link>
 <description>Nola Studio tuotesyote Meta-mainontaa varten (Suomi)</description>
-<lastBuildDate>Thu, 30 Jul 2026 12:21:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 14:59:35 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551_fi</g:id>
 <g:title>Mekko Alice</g:title>
@@ -1051,6 +1051,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-MST-LUH-SARK_29518_fi</g:item_group_id>
@@ -1085,6 +1086,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>239.00 EUR</g:price>
+<g:sale_price>179.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-MU-2_36950_fi</g:item_group_id>
@@ -1104,6 +1106,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>239.00 EUR</g:price>
+<g:sale_price>179.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-ROH-1_36715_fi</g:item_group_id>
@@ -1122,6 +1125,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>239.00 EUR</g:price>
+<g:sale_price>179.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-ROH-3_36895_fi</g:item_group_id>
@@ -1139,6 +1143,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-ROH-LUH-SARK-4_37019_fi</g:item_group_id>
@@ -1157,6 +1162,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-TAUP-LUH-SARK-2_36983_fi</g:item_group_id>
@@ -1190,6 +1196,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>239.00 EUR</g:price>
+<g:sale_price>179.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-TER-4_36944_fi</g:item_group_id>
@@ -1206,6 +1213,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
 <g:item_group_id>MENA-LW-TER-LUH-SARK-3_37010_fi</g:item_group_id>
@@ -1310,6 +1318,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>129.00 EUR</g:price>
+<g:sale_price>96.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised</g:product_type>
 <g:item_group_id>MENA-TOP-MST_27787_fi</g:item_group_id>
@@ -1729,6 +1738,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>115.00 EUR</g:price>
+<g:sale_price>86.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised</g:product_type>
 <g:item_group_id>PIDZ-LILL_29077_fi</g:item_group_id>
@@ -1746,6 +1756,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>115.00 EUR</g:price>
+<g:sale_price>86.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised</g:product_type>
 <g:item_group_id>PIDZ-MST_25411_fi</g:item_group_id>
@@ -1762,6 +1773,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>115.00 EUR</g:price>
+<g:sale_price>86.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised</g:product_type>
 <g:item_group_id>PIDZ-ROH_29068_fi</g:item_group_id>
@@ -1779,6 +1791,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>115.00 EUR</g:price>
+<g:sale_price>86.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised</g:product_type>
 <g:item_group_id>PIDZ-TAU_25422_fi</g:item_group_id>
@@ -1946,6 +1959,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
+<g:sale_price>104.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kimonod / Jakid &gt; Naised &gt; SUVINE &amp; LINANE-2026-</g:product_type>
 <g:item_group_id>SAGA-MU-1_37321_fi</g:item_group_id>
@@ -1963,6 +1977,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>249.00 EUR</g:price>
+<g:sale_price>186.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; SUVINE &amp; LINANE-2026-</g:product_type>
 <g:item_group_id>SAGA-SET-BLUSH_37328_fi</g:item_group_id>
@@ -1979,6 +1994,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>249.00 EUR</g:price>
+<g:sale_price>186.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>loungewear / sleepwear &gt; Naised &gt; SUVINE &amp; LINANE-2026-</g:product_type>
 <g:item_group_id>SAGA-SET-MST-1_37349_fi</g:item_group_id>
