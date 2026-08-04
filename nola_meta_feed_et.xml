@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Tue, 04 Aug 2026 10:24:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 12:52:01 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551</g:id>
 <g:title>Kleit Alice</g:title>
@@ -297,6 +297,20 @@
 <g:item_group_id>IRIS-TPRN_32556</g:item_group_id>
 </item>
 <item>
+<g:id>JAD-PRUUN_39677</g:id>
+<g:title>Kleit Jade pruun</g:title>
+<g:description>Jade on meie enim müüdud kleit just oma väga erineva kehatüübiga sobiva wrap-on lõike tõttu. See lõige tõesti toimib, kui ka oled rinnakam või puusakam, soovid oma taljet rõhutada või mitte, kõik sobib, see on kleit mis istub kui valatult. Jade on valmistatud hästi langevast vähekortsuvast kangast ning loomulikult on kleidil taskud. Tegemist on keskmisest avarama lõikega, suurust valides võta seda kindlati arvesse. Materjal: 62% polüester, 32% viskoos, 6% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 2-3 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-102 103-112 113-120 121-130 Toote üldpikkus (cm) 115 117 117 119 119</g:description>
+<g:link>https://nola.ee/toode/kleit-jade-pruun/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/08/ChatGPT-Image-Aug-4-2026-at-12_11_19-PM.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/ChatGPT-Image-Aug-4-2026-at-12_14_26-PM.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>149.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:item_group_id>JAD-PRUUN_39677</g:item_group_id>
+</item>
+<item>
 <g:id>JAD-TER_20588</g:id>
 <g:title>Kleit Jade terracota</g:title>
 <g:description>Jade on meie enim müüdud kleit just oma väga erineva kehatüübiga sobiva wrap-on lõike tõttu. See lõige tõesti toimib, kui ka oled rinnakam või puusakam, soovid oma taljet rõhutada või mitte, kõik sobib, see on kleit mis istub kui valatult. Jade on valmistatud hästi langevast vähekortsuvast kangast ning loomulikult on kleidil taskud. Tegemist on keskmisest avarama lõikega, suurust valides võta seda kindlati arvesse. Materjal: 62% polüester, 32% viskoos, 6% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 2-3 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-102 103-112 113-120 121-130 Toote üldpikkus (cm) 115 117 117 119 119</g:description>
@@ -334,10 +348,9 @@
 <g:image_link>https://nola.ee/wp-content/uploads/2026/02/18417198-9A82-45C3-8859-BD74FD618157-2.png</g:image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/F06E3357-4216-4FDE-84DA-4A181D2725F3.png</g:additional_image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/81AF1F85-7091-414B-9077-B7416343F473.png</g:additional_image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>155.00 EUR</g:price>
-<g:sale_price>100.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>JADE-LIN-BLUSH-1_37176</g:item_group_id>
