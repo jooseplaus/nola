@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Fri, 07 Aug 2026 08:04:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 09:47:27 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551</g:id>
 <g:title>Kleit Alice</g:title>
@@ -348,9 +348,10 @@
 <g:image_link>https://nola.ee/wp-content/uploads/2026/02/18417198-9A82-45C3-8859-BD74FD618157-2.png</g:image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/F06E3357-4216-4FDE-84DA-4A181D2725F3.png</g:additional_image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/81AF1F85-7091-414B-9077-B7416343F473.png</g:additional_image_link>
-<g:availability>out of stock</g:availability>
+<g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>155.00 EUR</g:price>
+<g:sale_price>100.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>JADE-LIN-BLUSH-1_37176</g:item_group_id>
@@ -492,7 +493,7 @@
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>KIM-KL-HELELILLA-2_38487</g:item_group_id>
 </item>
 <item>
@@ -745,6 +746,20 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Naised &gt; T-särgid</g:product_type>
 <g:item_group_id>LIISA-VLG_33497</g:item_group_id>
+</item>
+<item>
+<g:id>LILY-HELELILLA-2_39265</g:id>
+<g:title>Kleit Lily helelilla</g:title>
+<g:description>Lily on A-lõikeline taskute ja effektsete varrukatega kleit. Kleidi avar kehaosa tagab selle, et kleit sobib hästi väga erineva kehakujuga, ent kui soovid rõhutada nt taljet saab kleidile lisada ka vöö. Uhked suured varrukad annavad kleidile iseloomu ja isikupära. Kleidile võimalik juurde tellida ka vöö: https://nola.ee/toode/voo/ Materjal: 60% viskoos, 35% polüester, 5% elstaan. Pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud madalal temperatuuril pahemalt poolt. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Toote üldpikkus (cm) 118 119 119 121 122</g:description>
+<g:link>https://nola.ee/toode/kleit-lily-helelilla/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/06/E9A41571-8C5F-4D63-9B6D-C4A619B75697.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/06/3B133D1B-A500-4C36-906C-877484F5C476.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>159.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>LILY-HELELILLA-2_39265</g:item_group_id>
 </item>
 <item>
 <g:id>LILY-MINI-KHK_28221</g:id>
@@ -1345,6 +1360,24 @@
 <g:item_group_id>MENA-TSARK-TERRA-1_38255</g:item_group_id>
 </item>
 <item>
+<g:id>NATA-LIL_28498</g:id>
+<g:title>Kleit Natali lilla</g:title>
+<g:description>Natali on klassikalise lõikega ja efektsete varrukatega taskutega kleit. Kleidi seelikuosa rõhutab naiselikku kehakuju, tuues esile talje- ning puusajoone. Materjal: 60% viskoos, 35% polüester, 5% elastaan. Kleiti pesta õrna programmiga, pahempidi pööratult 30 kraadises vees, triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Toote üldpikkus (cm) 103 105 105 106 106</g:description>
+<g:link>https://nola.ee/toode/kleit-natali-lilla/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00679-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00680-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00232-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00278-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00258-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00715-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>159.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>NATA-LIL_28498</g:item_group_id>
+</item>
+<item>
 <g:id>NATA-MST_19444</g:id>
 <g:title>Kleit Natali must</g:title>
 <g:description>Natali on klassikalise lõikega ja efektsete varrukatega taskutega kleit. Kleidi seelikuosa rõhutab naiselikku kehakuju, tuues esile talje- ning puusajoone. Materjal: 60% viskoos, 35% polüester, 5% elastaan. Kleiti pesta õrna programmiga, pahempidi pööratult 30 kraadises vees, triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Toote üldpikkus (cm) 103 105 105 106 106</g:description>
@@ -1816,6 +1849,23 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>RUMI_34028</g:item_group_id>
+</item>
+<item>
+<g:id>SAGA-SET-BLUSH_37328</g:id>
+<g:title>Saga set blush</g:title>
+<g:description>Nola Saga set on mõnus suvine komplekt mis koosneb Saga jakist ja pükstest. Saga linane kimonojakk on lühemate avarate varrukatega tagant veidi lühem, eest pikem jakk, mis tegelikult kantav ka pluusina. Jakil on vöö kinnitatud küljeõmblustesse. Saga jaki näol on tegemist suvisema ja lühema versiooniga meie linasest kimonojakist. Saga jakk moodustab mõnusa suvise seti koos Saga pükstega. Saga püksid on avara lõikega ülevalt pehme kummivärviliga hästi istuvad püksid. Modell on 172 cm pikk, S/M suuruse kandja ja kannab pildil S suurust loungeweari. Juhul kui soovid pükse pikemana või lühemana siis märgi palun oma soovitud püksi sisesääre mõõt tellimuse kommentaari. Materjal: 100% linane. Pesta 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7 tööpäeva . Allahindluse perioodil palun arvestada kuni 14 päevase tarneajaga. Suurus XS S/M L/XL Rinnaümbermõõt (inimese mõõt) 80-86 87-98 99-118 Toote üldpikkus (cm) 82 82 82</g:description>
+<g:link>https://nola.ee/toode/saga-set-blush/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01355-1-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01342-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01346-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01369-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01361-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>249.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>SAGA-SET-BLUSH_37328</g:item_group_id>
 </item>
 <item>
 <g:id>SAMET-KIM-PUN_27866</g:id>

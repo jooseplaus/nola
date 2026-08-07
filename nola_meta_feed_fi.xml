@@ -4,7 +4,7 @@
 <title>Nola Studio - Suomi</title>
 <link>https://nola.ee/fi/</link>
 <description>Nola Studio tuotesyote Meta-mainontaa varten (Suomi)</description>
-<lastBuildDate>Fri, 07 Aug 2026 08:04:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 09:47:27 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551_fi</g:id>
 <g:title>Mekko Alice</g:title>
@@ -348,9 +348,10 @@
 <g:image_link>https://nola.ee/wp-content/uploads/2026/02/18417198-9A82-45C3-8859-BD74FD618157-2.png</g:image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/F06E3357-4216-4FDE-84DA-4A181D2725F3.png</g:additional_image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/81AF1F85-7091-414B-9077-B7416343F473.png</g:additional_image_link>
-<g:availability>out of stock</g:availability>
+<g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>155.00 EUR</g:price>
+<g:sale_price>100.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>JADE-LIN-BLUSH-1_37176_fi</g:item_group_id>
@@ -492,7 +493,7 @@
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>KIM-KL-HELELILLA-2_38487_fi</g:item_group_id>
 </item>
 <item>
@@ -745,6 +746,20 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Naised &gt; T-särgid</g:product_type>
 <g:item_group_id>LIISA-VLG_33497_fi</g:item_group_id>
+</item>
+<item>
+<g:id>LILY-HELELILLA-2_39265_fi</g:id>
+<g:title>Mekko Lily vaaleanvioletti</g:title>
+<g:description>Lily on A-linjainen mekko, jossa on taskut ja tehostehihat. Mekon leveä vartalo varmistaa, että mekko istuu erittäin hyvin erilaisille vartalonmuodoille, mutta jos haluat korostaa esimerkiksi vyötäröä, voit lisätä mekkoon myös vyön. Upeat isot hihat antavat mekolle luonnetta ja persoonallisuutta. Mekkoon on myös mahdollista tilata vyö: https://nola.ee/toode/voo/ Materiaali: 60% viskoosia, 35% polyesteriä, 5% elastaania. Pese nurinpäin käännettynä 30 asteen vedessä. Silitys sallittu matalassa lämpötilassa nurjalta puolelta. Toimitusaika: 7-10 päivää. Suurin osa tuotevalikoimastamme on saatavilla heti, mutta osa valmistetaan tilauksesta. Jos on tärkeää, että saat tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusaikana toimitusaika on jopa 14 päivää. Koko XS S M L XL Rinnanympärys (ihmiskoko) 82-86 87-92 93-98 99-105 106-120 Tuotteen kokonaispituus (cm) 118 119 119 121 122</g:description>
+<g:link>https://nola.ee/fi/toode/kleit-lily-helelilla/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/06/E9A41571-8C5F-4D63-9B6D-C4A619B75697.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/06/3B133D1B-A500-4C36-906C-877484F5C476.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>159.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>LILY-HELELILLA-2_39265_fi</g:item_group_id>
 </item>
 <item>
 <g:id>LILY-MINI-KHK_28221_fi</g:id>
@@ -1345,6 +1360,24 @@
 <g:item_group_id>MENA-TSARK-TERRA-1_38255_fi</g:item_group_id>
 </item>
 <item>
+<g:id>NATA-LIL_28498_fi</g:id>
+<g:title>Natali-mekko violetti</g:title>
+<g:description>Natali on klassisen leikkauksen omaava mekko, jossa on taskut ja näyttävät hihat. Mekon helma korostaa naisellista vartaloa korostaen vyötäröä ja lantiolinjaa. Materiaali: 60% viskoosia, 35% polyesteriä, 5% elastaania. Pese mekko hienopesuohjelmalla nurinpäin käännettynä 30 asteessa, silitys sallittu. Toimitusaika: 7-10 päivää. Suurin osa tuotteistamme on saatavilla heti, mutta osa valmistetaan tilauksesta. Jos haluat saada tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusjakson aikana toimitusaika on enintään 14 päivää. Koko XS S M L XL Rinnanympärys (ihmisen koko) 82-86 87-92 93-98 99-105 106-120 Lantio (ihmisen koko) 90-94 95-99 100-106 107-113 114-122 Tuotteen kokonaispituus (cm) 103 105 105 106 106</g:description>
+<g:link>https://nola.ee/fi/toode/kleit-natali-lilla/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00679-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00680-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00232-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00278-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00258-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00715-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>159.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>NATA-LIL_28498_fi</g:item_group_id>
+</item>
+<item>
 <g:id>NATA-MST_19444_fi</g:id>
 <g:title>Mekko Natali musta</g:title>
 <g:description>Natali on klassisen leikkauksen omaava mekko, jossa on taskut ja näyttävät hihat. Mekon helma korostaa naisellista vartaloa korostaen vyötäröä ja lantiolinjaa. Materiaali: 60% viskoosia, 35% polyesteriä, 5% elastaania. Pese mekko hienopesuohjelmalla nurinpäin käännettynä 30 asteessa, silitys sallittu. Toimitusaika: 7-10 päivää. Suurin osa tuotteistamme on saatavilla heti, mutta osa valmistetaan tilauksesta. Jos haluat saada tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusjakson aikana toimitusaika on enintään 14 päivää. Koko XS S M L XL Rinnanympärys (ihmisen koko) 82-86 87-92 93-98 99-105 106-120 Lantio (ihmisen koko) 90-94 95-99 100-106 107-113 114-122 Tuotteen kokonaispituus (cm) 103 105 105 106 106</g:description>
@@ -1816,6 +1849,23 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>RUMI_34028_fi</g:item_group_id>
+</item>
+<item>
+<g:id>SAGA-SET-BLUSH_37328_fi</g:id>
+<g:title>Saga-poskipunasetti</g:title>
+<g:description>Nola Saga -setti on mukava kesäasu, joka koostuu Saga-takista ja -housuista. Saga-pellavainen kimonotakki on lyhyemmillä, väljillä hihoilla varustettu takki, joka on hieman lyhyempi takaa ja pidempi edestä, ja jota voi käyttää myös puserona. Takissa on vyö, joka on kiinnitetty sivusaumoihin. Saga-takki on kesäisempi ja lyhyempi versio pellavaisesta kimonotakitostamme. Saga-takki muodostaa mukavan kesäasun Saga-housujen kanssa. Saga-housut ovat väljät housut, joissa on pehmeä kumivuori yläosassa. Malli on 172 cm pitkä, käyttää kokoa S/M ja kuvassa on yllään kokoa S oleva loungewear. Jos haluat pidemmät tai lyhyemmät housut, ilmoita haluamasi lahkeen sisäsauman pituus tilauksen kommenttikentässä. Materiaali: 100% pellava. Pesu 40 asteessa. Silitys sallittu. Toimitusaika: 7 arkipäivää. Alennusjakson aikana toimitusaika on enintään 14 päivää. Koko XS S/M L/XL Rinnanympärys (ihmisen mitta) 80-86 87-98 99-118 Tuotteen kokonaispituus (cm) 82 82 82</g:description>
+<g:link>https://nola.ee/fi/toode/saga-set-blush/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01355-1-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01342-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01346-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01369-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01361-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>249.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>SAGA-SET-BLUSH_37328_fi</g:item_group_id>
 </item>
 <item>
 <g:id>SAMET-KIM-PUN_27866_fi</g:id>
