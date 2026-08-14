@@ -4,7 +4,7 @@
 <title>Nola Studio - Suomi</title>
 <link>https://nola.ee/fi/</link>
 <description>Nola Studio tuotesyote Meta-mainontaa varten (Suomi)</description>
-<lastBuildDate>Fri, 14 Aug 2026 07:03:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 08:55:14 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551_fi</g:id>
 <g:title>Mekko Alice</g:title>
@@ -45,6 +45,21 @@
 <g:item_group_id>AMI-MST-1_37235_fi</g:item_group_id>
 </item>
 <item>
+<g:id>AMI-NAT-3_37630_fi</g:id>
+<g:title>Ami-shortsit, luonnonväriset</g:title>
+<g:description>Amin housuissa on olkapäistä solmittavat nauhat, mukavan väljä istuvuus, taskut ja leveät lahkeet. Nauhojen ansiosta jokainen nainen voi säätää housut juuri oman vartalonsa mukaan. Housut sopivat käytettäväksi puseron päällä, bikinin päällä tai alusvaatteiden kanssa, tai miksei ihan sellaisenaan, ilman alle jääviä vaatteita. Väljä ja mukava kesävaate, jota ilman et voi kuvitella kesäkävelyjä. Malli on 172 cm pitkä ja käyttää kokoa S/M, kuvassa on päällään koko S. Materiaali: 75% viskoosia, 25% pellavaa. Suosittelemme housujen pesua villapesuohjelmalla, rumpukuivaus on kielletty. Housut saattavat hieman lyhentyä pesun jälkeen, esimerkiksi jos on käytetty ohjelmaa, jossa on voimakkaampi linkous. Jos näin käy, silitä housut huolellisesti suhteellisen korkealla lämmöllä, niin ne ovat taas samassa koossa. Lisäksi, koska se on pääosin viskoosikangasta, tiedä, että viskoosi suoristuu itsestään. Jos siis lähdet matkalle ja otat housusi matkalaukusta ja ne ovat ryppyiset, ripusta ne vain kylpyhuoneeseen (jossa on hieman kosteampaa) tai ulos tai yksinkertaisesti huoneeseen puuhun, niin 3-4 tunnin kuluttua ne ovat suorat. Toimitusaika: 7 arkipäivää. Alennusaikana toimitusaika voi olla jopa 14 päivää. Koko XS S M L XL Lantionympärys (ihmismitta) 87-92 92-98 99-106 105-113 114-126 Tuotteen kokonaispituus (cm) 88 88 90 92 92</g:description>
+<g:link>https://nola.ee/fi/toode/ami-luhike-pukstukk-nat/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/03/7000B077-388C-4FDD-8F2F-141EE6F9E296.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/A42DF871-3618-4A40-8D2E-49B11700D569-2.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>139.00 EUR</g:price>
+<g:sale_price>90.35 EUR</g:sale_price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>AMI-NAT-3_37630_fi</g:item_group_id>
+</item>
+<item>
 <g:id>AMI-NAT-4_37639_fi</g:id>
 <g:title>Ami lyhyet housut vihreät</g:title>
 <g:description>Amin housuissa on olkapäistä solmittavat nauhat, mukavan väljä istuvuus, taskut ja leveät lahkeet. Nauhojen ansiosta jokainen nainen voi säätää housut juuri oman vartalonsa mukaan. Housut sopivat käytettäväksi puseron päällä, bikinin päällä tai alusvaatteiden kanssa, tai miksei ihan sellaisenaan, ilman alle jääviä vaatteita. Väljä ja mukava kesävaate, jota ilman et voi kuvitella kesäkävelyjä. Malli on 172 cm pitkä ja käyttää kokoa S/M, kuvassa on päällään koko S. Materiaali: 75% viskoosia, 25% pellavaa. Suosittelemme housujen pesua villapesuohjelmalla, rumpukuivaus on kielletty. Housut saattavat hieman lyhentyä pesun jälkeen, esimerkiksi jos on käytetty ohjelmaa, jossa on voimakkaampi linkous. Jos näin käy, silitä housut huolellisesti suhteellisen korkealla lämmöllä, niin ne ovat taas samassa koossa. Lisäksi, koska se on pääosin viskoosikangasta, tiedä, että viskoosi suoristuu itsestään. Jos siis lähdet matkalle ja otat housusi matkalaukusta ja ne ovat ryppyiset, ripusta ne vain kylpyhuoneeseen (jossa on hieman kosteampaa) tai ulos tai yksinkertaisesti huoneeseen puuhun, niin 3-4 tunnin kuluttua ne ovat suorat. Toimitusaika: 7 arkipäivää. Alennusaikana toimitusaika voi olla jopa 14 päivää. Koko XS S M L XL Lantionympärys (ihmismitta) 87-92 92-98 99-106 105-113 114-126 Tuotteen kokonaispituus (cm) 88 88 90 92 92</g:description>
@@ -59,21 +74,6 @@
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>AMI-NAT-4_37639_fi</g:item_group_id>
-</item>
-<item>
-<g:id>AMI-ROH-4_37400_fi</g:id>
-<g:title>Amin vihreät housut</g:title>
-<g:description>Amin housut ovat olkapäiltä solmittavilla nauhoilla, jotka laskeutuvat mukavan vapaasti selästä, ja niissä on taskut sekä leveät lahkeet. Olkaimien ansiosta jokainen nainen voi säätää housut omiin mieltymyksiinsä sopivaksi, jotta ne istuvat juuri haluamallasi tavalla. Säädettävän olkahihnan ansiosta voit valita, ovatko housut pitkät vai esimerkiksi nilkkapituisilla housuosuuksilla, ovatko ne rinnasta löysemmät vai tiukemmat, tilaa leikitellä on runsaasti. Housut sopivat käytettäväksi puseron päällä, bikinin päällä tai alusvaatteiden kanssa, tai mikset ihan sellaisenaan, ilman mitään alla. Vapaa ja mukava kesävaate, jota ilman et voi kuvitella kesäkävelyjä. Malli on 172 cm pitkä, käyttää kokoa S/M ja kuvassa on yllään kokoa S olevat housut. Jos haluat pidemmät vai lyhyemmät housut, ilmoita toiveesi housujen sisäsauman mitasta tilauksen kommenttikentässä. Materiaali: 75% viskoosi 25% pellava. Suosittelemme housujen pesua villapesuohjelmalla, kuivausrumpu on kielletty. Housut saattavat hieman lyhentyä pesun jälkeen, esimerkiksi jos on käytetty ohjelmaa, jossa on voimakkaampi linkous. Jos näin käy, silitä housut kunnolla suhteellisen korkealla lämmöllä, niin ne ovat takaisin samaan kokoon. Lisäksi, koska kangas on pääosin viskoosia, tiedä, että viskoosi suoristuu itsestään, joten jos lähdet matkalle ja housut ovat ryppyiset ottaessasi ne matkalaukusta, ripusta ne joko kylpyhuoneeseen (jossa on hieman kosteampaa) tai ulos tai yksinkertaisesti huoneeseen puuhun, niin 3-4 tunnin kuluttua ne ovat suorat. Toimitusaika: 7 arkipäivää. Alennusaikana toimitusaika voi olla jopa 14 päivää. Koko XS S M L XL Lantionympärys (ihmiskoko) 87-92 92-98 99-106 105-113 114-126 Lahkeen sisäsauman pituus (cm) 71 72 73 74 75</g:description>
-<g:link>https://nola.ee/fi/toode/ami-pukstukk-roheline/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/02/940A7764-2E81-4A32-B905-0373AF66302C.png</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/04CFF70F-6AD8-44C7-8879-4422DC50C49F.png</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>169.00 EUR</g:price>
-<g:sale_price>109.85 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>LÕPUMÜÜK-2026</g:product_type>
-<g:item_group_id>AMI-ROH-4_37400_fi</g:item_group_id>
 </item>
 <item>
 <g:id>AMI-TER-4_37620_fi</g:id>
@@ -156,24 +156,6 @@
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>HETA-MUS-3_38798_fi</g:item_group_id>
-</item>
-<item>
-<g:id>HETA-NAT-2_38615_fi</g:id>
-<g:title>Heta mekko luonnollinen</g:title>
-<g:description>Heta on kesäinen kietaisumekko, jonka leveät ja upeat hihat antavat mekolle useita käyttömahdollisuuksia. Mekossa on sisäpuolella nauhakiinnitys, joka kiinnittää mekon kauniisti vyötärön ympärille, joten helman löystymisestä ei tarvitse huolehtia. Jokainen voi sitoa mekon juuri haluamallaan tavalla, joko löysemmin, jolloin helmat laskeutuvat enemmän, tai korostaen vyötäröä voimakkaammin. Mekkoa ei tarvitse silittää päivittäin, mutta se kannattaa ehdottomasti tehdä pesun jälkeen. Koska mekko sisältää viskoosia, ei kannata hätkähtää, jos pesun jälkeen mekko tuntuu kutistuneen. Tämän kankaan erityispiirre on, että märkänä se on todellakin koon pienempi, mutta kuivuttuaan se tarvitsee vain silittää ja se on takaisin alkuperäiseen kokoonsa. Malli on 174 cm pitkä, käyttää kokoa S ja kuvassa on yllään kokoa S oleva mekko. Materiaali: 85% viskoosia, 15% pellavaa. Pesu 40 asteessa. Silitys sallittu. Toimitusaika: 7-10 päivää. Suurin osa tuotevalikoimastamme on saatavilla välittömästi, mutta osa valmistetaan tilauksesta. Jos haluat saada tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusjakson aikana toimitusaika on enintään 14 päivää. Koko XS/S M/L XL Rinnanympärys (ihmiskoko) 83-91 92-106 107-120 Tuotteen kokonaispituus (cm) 90 92 94</g:description>
-<g:link>https://nola.ee/fi/toode/heta-natural/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/04/DSC4035-2.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/04/DSC4027-2.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/04/DSC4003.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/04/DSC4031.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/04/DSC4009-2.jpg</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>149.00 EUR</g:price>
-<g:sale_price>96.85 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>LÕPUMÜÜK-2026</g:product_type>
-<g:item_group_id>HETA-NAT-2_38615_fi</g:item_group_id>
 </item>
 <item>
 <g:id>HETA-VALGE_39377_fi</g:id>
@@ -1438,44 +1420,6 @@
 <g:item_group_id>NOLA-KIM-MST_23635_fi</g:item_group_id>
 </item>
 <item>
-<g:id>NOLA-KIM-NAT-1_37839_fi</g:id>
-<g:title>Nola kimono luonnonvärinen</g:title>
-<g:description>Nola kimono on miellyttävän kesäinen, hyvin istuva ja kevyt kimono, jossa on tilavat taskut ja halkiot. Kimonon mukana tulee vyö. Materiaali: 85% viskoosia, 15% pellavaa. Pesu 40 asteessa. Silitys sallittu. Toimitusaika: 7-10 päivää. Suurin osa tuotteistamme on saatavilla heti, mutta osa valmistetaan tilauksesta. Jos haluat tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusaikana toimitusaika on jopa 14 päivää. Koko XS SM L-XL Rinnanympärys (ihmiskoko) 80-86 87-98 99-118 Tuotteen kokonaispituus (cm) 107 109 111</g:description>
-<g:link>https://nola.ee/fi/toode/nola-kimono-natural/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/03/DSC3852.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC3845.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC05416-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC05427-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC05537-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC3827.jpg</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>139.00 EUR</g:price>
-<g:sale_price>90.35 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>LÕPUMÜÜK-2026</g:product_type>
-<g:item_group_id>NOLA-KIM-NAT-1_37839_fi</g:item_group_id>
-</item>
-<item>
-<g:id>NOLA-KIM-ROH-2_37851_fi</g:id>
-<g:title>Nola kimono vihreä</g:title>
-<g:description>Nola kimono on miellyttävän kesäinen, hyvin istuva ja kevyt kimono, jossa on tilavat taskut ja halkiot. Kimonon mukana tulee vyö. Materiaali: 85% viskoosia, 15% pellavaa. Pesu 40 asteessa. Silitys sallittu. Toimitusaika: 7-10 päivää. Suurin osa tuotteistamme on saatavilla heti, mutta osa valmistetaan tilauksesta. Jos haluat tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusaikana toimitusaika on jopa 14 päivää. Koko XS SM L-XL Rinnanympärys (ihmiskoko) 80-86 87-98 99-118 Tuotteen kokonaispituus (cm) 107 109 111</g:description>
-<g:link>https://nola.ee/fi/toode/nola-kimono-roheline-kopeeri/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/03/DSC3710.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC3707-2.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC02779-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC02756-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC3721.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/03/DSC3694-2-1.jpg</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>139.00 EUR</g:price>
-<g:sale_price>90.35 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>LÕPUMÜÜK-2026</g:product_type>
-<g:item_group_id>NOLA-KIM-ROH-2_37851_fi</g:item_group_id>
-</item>
-<item>
 <g:id>NOLA-KIM-TELL_35642_fi</g:id>
 <g:title>Nola kimono terrakotta</g:title>
 <g:description>Nola kimono on miellyttävän kesäinen, hyvin istuva ja kevyt kimono, jossa on tilavat taskut ja halkiot. Kimonon mukana tulee vyö. Materiaali: 85% viskoosia, 15% pellavaa. Pesu 40 asteessa. Silitys sallittu. Toimitusaika: 7-10 päivää. Suurin osa tuotteistamme on saatavilla heti, mutta osa valmistetaan tilauksesta. Jos haluat tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusaikana toimitusaika on jopa 14 päivää. Koko XS SM L-XL Rinnanympärys (ihmiskoko) 80-86 87-98 99-118 Tuotteen kokonaispituus (cm) 107 109 111</g:description>
@@ -1810,6 +1754,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>249.00 EUR</g:price>
+<g:sale_price>161.85 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>SAGA-SET-BLUSH_37328_fi</g:item_group_id>
