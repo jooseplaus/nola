@@ -4,7 +4,7 @@
 <title>Nola Studio - Suomi</title>
 <link>https://nola.ee/fi/</link>
 <description>Nola Studio tuotesyote Meta-mainontaa varten (Suomi)</description>
-<lastBuildDate>Tue, 18 Aug 2026 07:28:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 08:20:28 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551_fi</g:id>
 <g:title>Mekko Alice</g:title>
@@ -124,6 +124,21 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Kimonod / Jakid &gt; Naised</g:product_type>
 <g:item_group_id>AVA-MST_19483_fi</g:item_group_id>
+</item>
+<item>
+<g:id>GIA-KLEIT-MUST_35709_fi</g:id>
+<g:title>Gia Kleit</g:title>
+<g:description>Gia on väga elegantne ja pidulik, taljet rõhutava lõikega kleit, millel veidi kõrgem kaelus ja taga avar lõhik. Kleidile lisavad iseloomu eriti pikad ja elegentsed pöidla avaga varrukad. Gia kleit on tehtud kvaliteetsest hästi langevast sametkangast, kangas ei vaja triikimist. &amp;nbsp; Materjal: 100% polüester. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 1-2 tööpäeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 84-88 85-95 96-99 100-107 108-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Üldpikkus (cm) 144 144 147 150 152</g:description>
+<g:link>https://nola.ee/fi/toode/gia-kleit-must/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2025/11/Gia-must-1.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/11/Gia-must3.png</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/11/Gia-must2.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>179.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:item_group_id>GIA-KLEIT-MUST_35709_fi</g:item_group_id>
 </item>
 <item>
 <g:id>HERA-MUST_36392_fi</g:id>
@@ -1327,8 +1342,8 @@
 </item>
 <item>
 <g:id>MOON_39831_fi</g:id>
-<g:title>Kleit Moon</g:title>
-<g:description>Materjal: 5% puuvill, 5% elastaan. Kleiti pesta pahempidi pööratult 40 kraadises vees, soovitatavalt õrna pesu programmiga. Triikimine lubatud Tarneaeg: 7-10 päeva. Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS/S M/L XL Rinnaümbermõõt (inimese mõõt) 83-91 92-106 107-120 Toote üldpikkus (cm) 122 124 125</g:description>
+<g:title>Mekko Kuu</g:title>
+<g:description>Materiaali: 5% puuvillaa, 5% elastaania. Pese mekko nurinpäin 40 asteessa, mieluiten hienopesuohjelmalla. Silitys sallittu Toimitusaika: 7-10 päivää. Suurin osa tuotteistamme on varastossa, mutta osa valmistetaan tilauksesta. Jos haluat tilauksesi tiettyyn päivämäärään mennessä, ilmoitathan siitä meille. Alennusjakson aikana toimitusaika on jopa 14 päivää. Koko XS/S M/L XL Rinnanympärys (ihmisen koko) 83-91 92-106 107-120 Tuotteen kokonaispituus (cm) 122 124 125</g:description>
 <g:link>https://nola.ee/fi/toode/moon/</g:link>
 <g:image_link>https://nola.ee/wp-content/uploads/2026/08/moon4-scaled.jpg</g:image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/moon2-scaled.jpg</g:additional_image_link>
@@ -1337,6 +1352,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>165.00 EUR</g:price>
+<g:sale_price>123.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>MOON_39831_fi</g:item_group_id>
