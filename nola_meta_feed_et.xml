@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Tue, 25 Aug 2026 07:34:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 08:27:29 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551</g:id>
 <g:title>Kleit Alice</g:title>
@@ -659,13 +659,45 @@
 <g:item_group_id>KINK-50_2263</g:item_group_id>
 </item>
 <item>
+<g:id>KLEIT-MALIN-VALGE_39937</g:id>
+<g:title>Kleit Malin valge</g:title>
+<g:description>Materjal: Tarneaeg: 3-7 päeva .</g:description>
+<g:link>https://nola.ee/toode/kleit-malin-valge/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8074-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8181.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>349.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:item_group_id>KLEIT-MALIN-VALGE_39937</g:item_group_id>
+</item>
+<item>
+<g:id>KLEIT-MALIN_39903</g:id>
+<g:title>Kleit Malin</g:title>
+<g:description>Materjal: Tarneaeg: 3-7 päeva .</g:description>
+<g:link>https://nola.ee/toode/kleit-malin/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8190.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8192.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8195.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>349.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:item_group_id>KLEIT-MALIN_39903</g:item_group_id>
+</item>
+<item>
 <g:id>KLEIT-UMA_39889</g:id>
 <g:title>Kleit Uma</g:title>
 <g:description>Uma on effektsest venivast kangast pikk kleit, millel pikad otsast veidi avaramad varrukad. Kleit on äärmiselt mugav, ei kortsu ja ei vaja triikimist. Piklupüüdev kangas ja lihtne figuuri rõhutav lõige loovad ideaalse koosluse. Materjal: 80% polüester, 18% viskoos, 2% elastaan Tarneaeg: kuni 7 tööpäeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 84-88 85-95 96-99 100-107 108-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Üldpikkus (cm) 147 149 154 156 157</g:description>
 <g:link>https://nola.ee/toode/kleit-uma/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_7410-2-scaled.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/att.GIO8A_F7gjcZwIJ51SKg0j6ZCU5JzPkKjzXJr5k3QMw.jpg</g:additional_image_link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8025-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8037-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_8017-scaled.jpg</g:additional_image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_7401-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_1509-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_1566-scaled.jpg</g:additional_image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>229.00 EUR</g:price>
@@ -701,7 +733,7 @@
 <g:condition>new</g:condition>
 <g:price>79.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LIISA-HALL_31492</g:item_group_id>
 </item>
 <item>
@@ -717,7 +749,7 @@
 <g:condition>new</g:condition>
 <g:price>79.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LIISA-PUN_35738</g:item_group_id>
 </item>
 <item>
@@ -733,7 +765,7 @@
 <g:condition>new</g:condition>
 <g:price>79.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LIISA-ROH_34075</g:item_group_id>
 </item>
 <item>
@@ -749,7 +781,7 @@
 <g:condition>new</g:condition>
 <g:price>79.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LIISA-TAUPE_34071</g:item_group_id>
 </item>
 <item>
@@ -763,7 +795,7 @@
 <g:condition>new</g:condition>
 <g:price>79.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LIISA-VLG_33497</g:item_group_id>
 </item>
 <item>
@@ -941,7 +973,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LIN-TSARK-MST_17993</g:item_group_id>
 </item>
 <item>
@@ -956,7 +988,7 @@
 <g:condition>new</g:condition>
 <g:price>54.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LINE-MST_15770</g:item_group_id>
 </item>
 <item>
@@ -972,8 +1004,24 @@
 <g:condition>new</g:condition>
 <g:price>54.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>LINE-VLG_15790</g:item_group_id>
+</item>
+<item>
+<g:id>LULU_34033</g:id>
+<g:title>Lulu kleit</g:title>
+<g:description>Lulu on meie ajaloo kõige hinnalisemast Itaaliast pärit kangast õmmeldud kleit. Seda kangast peab kohe oma silmaga nägema, see pehme ja imeliselt kuju hoidev, samas langev ja keha vastus siidine kangas on midagi väga erilist. Lulu kleidil on suured effektsed varrukad, kleidi kehaosas läbilõige ja seljal nööpkinnitus. Materjal: 64% polüester, 35% puuvill 1% elastaan. Pesta 30 kraadises vees käsipesu programmiga. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS/S M/L XL Rinnaümbermõõt (inimese mõõt) 83-91 92-106 107-120 Toote üldpikkus (cm) 92 94 96</g:description>
+<g:link>https://nola.ee/toode/lulu-kleit/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2025/08/sugis-27-scaled-e1756716748979.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/08/IMG_3569-scaled-e1758094262938.png</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/08/sugis-33-1-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/08/nola-36-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>269.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:item_group_id>LULU_34033</g:item_group_id>
 </item>
 <item>
 <g:id>MENA-LW-MST-LUH-SARK_29518</g:id>
@@ -1107,7 +1155,7 @@
 <g:condition>new</g:condition>
 <g:price>75.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid</g:product_type>
+<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>MENA-PIKK-TSARK-MUST_39281</g:item_group_id>
 </item>
 <item>
@@ -1212,7 +1260,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid</g:product_type>
+<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>MENA-TSARK-MST-LÜH_29002</g:item_group_id>
 </item>
 <item>
@@ -1228,7 +1276,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid</g:product_type>
+<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>MENA-TSARK-ROHELINE-2_38263</g:item_group_id>
 </item>
 <item>
@@ -1243,7 +1291,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid</g:product_type>
+<g:product_type>loungewear / sleepwear &gt; Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>MENA-TSARK-TERRA-1_38255</g:item_group_id>
 </item>
 <item>
@@ -1326,7 +1374,7 @@
 <g:condition>new</g:condition>
 <g:price>79.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NET-MST-PV_13523</g:item_group_id>
 </item>
 <item>
@@ -1340,7 +1388,7 @@
 <g:condition>new</g:condition>
 <g:price>54.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NET-TSÄRK_12778</g:item_group_id>
 </item>
 <item>
@@ -1449,7 +1497,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NOMI-KHK_27001</g:item_group_id>
 </item>
 <item>
@@ -1462,7 +1510,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NOMI-MST_5178</g:item_group_id>
 </item>
 <item>
@@ -1477,7 +1525,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NOMI-NVI_26979</g:item_group_id>
 </item>
 <item>
@@ -1491,7 +1539,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NOMI-PUN_5691</g:item_group_id>
 </item>
 <item>
@@ -1505,7 +1553,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NOMI-TAUPE_30996</g:item_group_id>
 </item>
 <item>
@@ -1519,7 +1567,7 @@
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NOMI-VLG_5139</g:item_group_id>
 </item>
 <item>
@@ -1588,6 +1636,21 @@
 <g:item_group_id>PIDZ-TAU_25422</g:item_group_id>
 </item>
 <item>
+<g:id>PLUUS-MALIN-VALGE_39943</g:id>
+<g:title>Malin pluus valge</g:title>
+<g:description>Materjal: Tarneaeg: 3-7 päeva .</g:description>
+<g:link>https://nola.ee/toode/malin-pluus-valge/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_7959-2-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_7919-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/IMG_7953-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>179.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
+<g:item_group_id>PLUUS-MALIN-VALGE_39943</g:item_group_id>
+</item>
+<item>
 <g:id>RIA-MST_15701</g:id>
 <g:title>Ria t-särk must</g:title>
 <g:description>Ria on minmalistliku lõikega, oversize mõõdus avarate varrukatega eest lühem, tagant pikem t-särk mis valmistatud öko-tex märgistusega trikotaazkangast. Materjal: 95% puuvill, 5% elastan. T-särki pesta 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82 – 86 87 – 92 93 – 98 99 – 105 106 – 120 Toote üldpikkus eest/tagant (cm) 79/ 92 80/ 93 81/ 94 82/ 95 83/ 96</g:description>
@@ -1599,7 +1662,7 @@
 <g:condition>new</g:condition>
 <g:price>72.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>RIA-MST_15701</g:item_group_id>
 </item>
 <item>
@@ -1614,7 +1677,7 @@
 <g:condition>new</g:condition>
 <g:price>72.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>RIA-VLG_15717</g:item_group_id>
 </item>
 <item>
@@ -2011,7 +2074,7 @@
 <g:condition>new</g:condition>
 <g:price>65.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>TSARK-KAY-MST_26992</g:item_group_id>
 </item>
 <item>
@@ -2029,7 +2092,7 @@
 <g:condition>new</g:condition>
 <g:price>30.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised &gt; T-särgid</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>VÖÖ_24544</g:item_group_id>
 </item>
 <item>
@@ -2046,7 +2109,7 @@
 <g:condition>new</g:condition>
 <g:price>54.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>YOK-VLG_3929</g:item_group_id>
 </item>
 <item>
@@ -2062,7 +2125,7 @@
 <g:condition>new</g:condition>
 <g:price>54.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>YOKO-LIN_17046</g:item_group_id>
 </item>
 <item>
@@ -2079,7 +2142,7 @@
 <g:condition>new</g:condition>
 <g:price>54.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>YOKO-MST_3935</g:item_group_id>
 </item>
 </channel></rss>
