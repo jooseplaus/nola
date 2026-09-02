@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Wed, 02 Sep 2026 10:02:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 14:46:25 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551</g:id>
 <g:title>Kleit Alice</g:title>
@@ -39,7 +39,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>109.85 EUR</g:sale_price>
+<g:sale_price>84.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>AMI-MST-1_37235</g:item_group_id>
@@ -54,7 +54,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
-<g:sale_price>90.35 EUR</g:sale_price>
+<g:sale_price>69.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>AMI-NAT-3_37630</g:item_group_id>
@@ -70,10 +70,25 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
-<g:sale_price>90.35 EUR</g:sale_price>
+<g:sale_price>69.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>AMI-NAT-4_37639</g:item_group_id>
+</item>
+<item>
+<g:id>AMI-ROH-4_37400</g:id>
+<g:title>Ami pükstükk roheline</g:title>
+<g:description>Ami pükstükk on õlalt seotavate paeltega, mõnusalt vabalt selga kukkuv, taskutega ja laia sääreosaga pükstükk. Just tänu õlapaeltele saab iga naine ise pükstüki endale selga nö parajaks sättida, nii et see istuks sinu seljas just täpselt nii nagu sinule meeldib. Reguleeritav õlapael annab sulle valiku, kas pükstükk on pikk või nt pahkluuni püksiosaga, kas rinnust avaram või kinnisem, mänguruumi jagub. Pükstükk sobib kandmiseks nii pluusi peal kui nt bikiinide peal või pesuga või miks mitte ka lihtsalt niisama, et midagi all ei ole. Suviselt vaba ja mõnus riideese ilma milleta suviseid kulgemisi ette ei kujutagi. Modell on 172 cm pikk, S/M suuruse kandja ja kannab pildil S suurus pükstükki. Juhul kui soovid pükstükki pikemana või lühemana siis märgi palun oma soovitus püksi sisesääre mõõt tellimuse kommentaari. Materjal: 75% viskoos 25% linane. Pükstükki soovitame pesta villapesu programmiga, kuivatis kuivatamine keelatud. Pükstükk võib minna peale pesu pikkuses veidi lühemaks, kui on olnud nt tugevamate pööretega programm, kui nii juhtub siis triigi pükstükk suhteliselt tugeva kuumusega korralikult ära ja ta on jälle samas mõõdus tagasi. Lisaks, kuna tegemist on suuresti viskooskangaga, siis tea, et viskoos on nö ise sirgenev, ehk siis kui lähed reisile ja kohvrist välja võttes on pükstükk kortsus siis riputada ta lihtsalt kas vannituppa (kus veidi niiskem) või õue või lihtsalt ka toas puu peal, ja 3-4 tunni pärast on ta sirge. Tarneaeg: 7 tööpäeva. Allahindluse perioodil võib tarneaeg olla kuni 14 päeva. Suurus XS S M L XL Puusaümbermõõt (inimese mõõt) 87-92 92-98 99-106 105-113 114-126 Pükste sisesäär (cm) 71 72 73 74 75</g:description>
+<g:link>https://nola.ee/toode/ami-pukstukk-roheline/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/02/940A7764-2E81-4A32-B905-0373AF66302C.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/04CFF70F-6AD8-44C7-8879-4422DC50C49F.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>169.00 EUR</g:price>
+<g:sale_price>84.50 EUR</g:sale_price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>AMI-ROH-4_37400</g:item_group_id>
 </item>
 <item>
 <g:id>AMI-TER-4_37620</g:id>
@@ -85,7 +100,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>109.85 EUR</g:sale_price>
+<g:sale_price>84.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>AMI-TER-4_37620</g:item_group_id>
@@ -180,7 +195,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:sale_price>116.35 EUR</g:sale_price>
+<g:sale_price>89.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>HERA-MUST_36392</g:item_group_id>
@@ -196,7 +211,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>96.85 EUR</g:sale_price>
+<g:sale_price>74.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>HETA-VALGE_39377</g:item_group_id>
@@ -348,6 +363,22 @@
 <g:item_group_id>JADE-BOR_16338</g:item_group_id>
 </item>
 <item>
+<g:id>JADE-LIN-BLUSH-1_37176</g:id>
+<g:title>Jade Linen blush</g:title>
+<g:description>Jade Linen on wrap-on lõikega 100% linasest kangast taskutega kleit. Materjal: 100 % linane. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt 90 94 98 108 114 Puusaümbermõõt 96 100 106 113 130 Üldpikkus 118 121 122 124 124</g:description>
+<g:link>https://nola.ee/toode/jade-linen-blush/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/02/18417198-9A82-45C3-8859-BD74FD618157-2.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/F06E3357-4216-4FDE-84DA-4A181D2725F3.png</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/81AF1F85-7091-414B-9077-B7416343F473.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>155.00 EUR</g:price>
+<g:sale_price>77.50 EUR</g:sale_price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>JADE-LIN-BLUSH-1_37176</g:item_group_id>
+</item>
+<item>
 <g:id>JADE-MST_1767</g:id>
 <g:title>Kleit Jade must</g:title>
 <g:description>Jade on meie enim müüdud kleit just oma väga erineva kehatüübiga sobiva wrap-on lõike tõttu. See lõige tõesti toimib, kui ka oled rinnakam või puusakam, soovid oma taljet rõhutada või mitte, kõik sobib, see on kleit mis istub kui valatult. Jade on valmistatud hästi langevast vähekortsuvast kangast ning loomulikult on kleidil taskud. Tegemist on keskmisest avarama lõikega, suurust valides võta seda kindlati arvesse. Materjal: 62% polüester, 32% viskoos, 6% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikime lubatud. Tarneaeg: 1-2 tööpäeva. Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-102 103-112 113-120 121-130 Toote üldpikkus (cm) 115 117 117 119 119</g:description>
@@ -483,7 +514,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>109.85 EUR</g:sale_price>
+<g:sale_price>84.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>KIM-KL-HELELILLA-2_38487</g:item_group_id>
@@ -703,7 +734,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>199.00 EUR</g:price>
-<g:sale_price>129.35 EUR</g:sale_price>
+<g:sale_price>99.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>LECIL-1_38682</g:item_group_id>
@@ -758,6 +789,24 @@
 <g:item_group_id>LIISA-ROH_34075</g:item_group_id>
 </item>
 <item>
+<g:id>LIISA-SUV-VLG_32910</g:id>
+<g:title>Liisa T-särk suvine valge</g:title>
+<g:description>Suvine Liisa t-särk on erinev tavapärasest pigem paksemast kangast tehtud t-särgist, suvine Liisa t-särk on avar satsiga t-särk mis valmistatud hästi langevast õhulisest viskoosi ja linase segusest kangast. Materjal: 75% viskoos, 25% linane. Pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS/S M/L Rinnaümbermõõt (inimese mõõt) 85-95 96-105 Üldpikkus (cm) 66 69</g:description>
+<g:link>https://nola.ee/toode/t-sark-suvi-valge/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2025/06/361A0512-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/06/361A0383-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/06/361A0607-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/06/361A0515-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/06/361A0671-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>59.00 EUR</g:price>
+<g:sale_price>29.50 EUR</g:sale_price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>LIISA-SUV-VLG_32910</g:item_group_id>
+</item>
+<item>
 <g:id>LIISA-TAUPE_34071</g:id>
 <g:title>Pluus Liisa taupe</g:title>
 <g:description>Liisa on avar, satsiga t-särk mis valmistatud kerge läikega puuvillasatiinist. Materjal: 95% puuvill, 5% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS/S M/L Rinnaümbermõõt (inimese mõõt) 85-95 96-105 Üldpikkus (cm) 66 69</g:description>
@@ -797,7 +846,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
-<g:sale_price>103.35 EUR</g:sale_price>
+<g:sale_price>79.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>LILY-HELELILLA-2_39265</g:item_group_id>
@@ -920,6 +969,24 @@
 <g:item_group_id>LILY-VLG_26851</g:item_group_id>
 </item>
 <item>
+<g:id>LIN-JAK-BLH_26054</g:id>
+<g:title>Linane kimonojakk blush</g:title>
+<g:description>Nola linane kimonojakk minimalistliku avara lõikega kimono stiilis jakk. Jakil on kaasas vöö. Linast kimonojakk on võimalik tellida kõigis linase Jade kleidi toonides. Kirjuta tellimse kommentaari, mis tooni linast kimonojakki soovid. Materjal: 100% linane. Pesta 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S-M L-XL Rinnaümbermõõt (inimese mõõt) 80-86 87-98 99-118 Toote üldpikkus (cm) 82 82 82</g:description>
+<g:link>https://nola.ee/toode/linane-kimonojakk-blush/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2024/07/DSC03429-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/07/DSC03399-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/07/DSC03423-1-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/07/DSC03430-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/07/DSC03394-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>139.00 EUR</g:price>
+<g:sale_price>69.50 EUR</g:sale_price>
+<g:brand>Nola</g:brand>
+<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:item_group_id>LIN-JAK-BLH_26054</g:item_group_id>
+</item>
+<item>
 <g:id>LIN-JAK-MST_3538</g:id>
 <g:title>Linane kimonojakk must</g:title>
 <g:description>Nola linane kimonojakk minimalistliku avara lõikega kimono stiilis jakk. Jakil on kaasas vöö. Linast kimonojakk on võimalik tellida kõigis linase Jade kleidi toonides. Kirjuta tellimse kommentaari, mis tooni linast kimonojakki soovid. Materjal: 100% linane. Pesta 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S-M L-XL Rinnaümbermõõt (inimese mõõt) 80-86 87-98 99-118 Toote üldpikkus (cm) 82 82 82</g:description>
@@ -934,24 +1001,6 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Kimonod / Jakid &gt; Naised</g:product_type>
 <g:item_group_id>LIN-JAK-MST_3538</g:item_group_id>
-</item>
-<item>
-<g:id>LIN-JAK-TER_22793</g:id>
-<g:title>Linane kimonojakk terracotta</g:title>
-<g:description>Nola linane kimonojakk minimalistliku avara lõikega kimono stiilis suvine linane jakk. Jakil on kaasas vöö. Materjal: 100% linane. Pesta 40 kraadises vees. Triikimine lubatud. Tarneaeg: kuni 7 päeva. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S-M L-XL Rinnaümbermõõt (inimese mõõt) 80-86 87-98 99-118 Toote üldpikkus (cm) 82 82 82</g:description>
-<g:link>https://nola.ee/toode/linane-kimonojakk-ter/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2024/01/W2A1910v.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/01/W2A2125v-2.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/01/W2A1898v.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/01/W2A1857v.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/01/9529901E-6AFA-421C-96FB-E6624B7B3497.jpeg</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>139.00 EUR</g:price>
-<g:sale_price>90.35 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>LÕPUMÜÜK-2026</g:product_type>
-<g:item_group_id>LIN-JAK-TER_22793</g:item_group_id>
 </item>
 <item>
 <g:id>LIN-TSARK-MST_17993</g:id>
@@ -1346,7 +1395,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
-<g:sale_price>103.35 EUR</g:sale_price>
+<g:sale_price>79.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>NATA-LIL_28498</g:item_group_id>
@@ -1441,9 +1490,9 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
-<g:sale_price>90.35 EUR</g:sale_price>
+<g:sale_price>69.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
-<g:product_type>LÕPUMÜÜK-2026</g:product_type>
+<g:product_type>Kimonod / Jakid &gt; Naised</g:product_type>
 <g:item_group_id>NOLA-KIM-TELL_35642</g:item_group_id>
 </item>
 <item>
@@ -1627,6 +1676,19 @@
 <g:item_group_id>PIDZ-TAU_25422</g:item_group_id>
 </item>
 <item>
+<g:id>PLUUS-MALIN-MUST_39940</g:id>
+<g:title>Malin pluus must</g:title>
+<g:description>Malin on A-lõikeline, suurte effektsete varrukatega pluus. Pluusil on väga eriline strukuurne ja osaliselt läbipaistev kangas, mis on kindlasti pilgupüüdja. Malin pluus on oversize mõõdus ja seetõttu ka onesize, ehk siis üks suurus sobib kõigile suurustele, jälgima peaks vaid kleidi üldpikkust, mis on 53 cm, seega kui soovid, et pluus oleks pikem/lühem siis märgi oma soov tellimuse kommentaari. Materjal: 85% viskoos 10% polüester 5% elastaan. Kleiti pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud õrna temperatuuriga. Materjal: Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva.</g:description>
+<g:link>https://nola.ee/toode/malin-pluus-must/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/08/40AF6477-6973-46FA-84DE-DD62BAADE1A8.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>179.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
+<g:item_group_id>PLUUS-MALIN-MUST_39940</g:item_group_id>
+</item>
+<item>
 <g:id>PLUUS-MALIN-VALGE_39943</g:id>
 <g:title>Malin pluus valge</g:title>
 <g:description>Malin on A-lõikeline, suurte effektsete varrukatega pluus. Pluusil on väga eriline strukuurne ja osaliselt läbipaistev kangas, mis on kindlasti pilgupüüdja. Malin pluus on oversize mõõdus ja seetõttu ka onesize, ehk siis üks suurus sobib kõigile suurustele, jälgima peaks vaid kleidi üldpikkust, mis on 53 cm, seega kui soovid, et pluus oleks pikem/lühem siis märgi oma soov tellimuse kommentaari. Materjal: 85% viskoos 10% polüester 5% elastaan. Kleiti pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud õrna temperatuuriga. Tarneaeg: 7-10 päeva. Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva.</g:description>
@@ -1686,28 +1748,10 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>59.00 EUR</g:price>
-<g:sale_price>38.35 EUR</g:sale_price>
+<g:sale_price>29.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>RU-TSARK-MST_30791</g:item_group_id>
-</item>
-<item>
-<g:id>RUMI-MUST-1_37410</g:id>
-<g:title>Rumi pluus</g:title>
-<g:description>Rumi on suvine ja avar, linase ja viskoosi segusest kangast suurte varrukatega boho stiilis pluus. Modell on 172 cm pikk, S/M suuruse kandja ja kannab pildil S suurus pluusi. Materjal: 85% viskoos, 15% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS/S M/L Rinnaümbermõõt (inimese mõõt) 85-95 96-105 Üldpikkus (cm) 66 69</g:description>
-<g:link>https://nola.ee/toode/rumi-pluus/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/02/DSC00911-1-scaled.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01035-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01000-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01043-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/02/DSC01040-scaled.jpg</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>119.00 EUR</g:price>
-<g:sale_price>77.35 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>LÕPUMÜÜK-2026</g:product_type>
-<g:item_group_id>RUMI-MUST-1_37410</g:item_group_id>
 </item>
 <item>
 <g:id>RUMI-NAT-0_37419</g:id>
@@ -1718,7 +1762,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>119.00 EUR</g:price>
-<g:sale_price>77.35 EUR</g:sale_price>
+<g:sale_price>59.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>RUMI-NAT-0_37419</g:item_group_id>
@@ -1736,7 +1780,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>119.00 EUR</g:price>
-<g:sale_price>77.35 EUR</g:sale_price>
+<g:sale_price>59.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>RUMI-VALGE-1_38157</g:item_group_id>
@@ -1754,7 +1798,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>249.00 EUR</g:price>
-<g:sale_price>161.85 EUR</g:sale_price>
+<g:sale_price>124.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>SAGA-SET-BLUSH_37328</g:item_group_id>
@@ -1836,7 +1880,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>122.85 EUR</g:sale_price>
+<g:sale_price>94.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>SION-HELELILLA-1_38207</g:item_group_id>
@@ -1854,7 +1898,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>122.85 EUR</g:sale_price>
+<g:sale_price>94.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>SION-HELESININE-1_38221</g:item_group_id>
@@ -1897,10 +1941,9 @@
 <g:title>Sion roheline</g:title>
 <g:description>Sion on minimalistliku lõike ja suurte nö nahkhiire varrukatega kleit, millel taga avar lõhik ja üleval krae ääres nööpkinnitus. Kleiti selga pannes tõmba varruka ots kindlasti käsivarrel veidi üles, nii jääb kleit seljas just nii nagu piltidel. NB! Soovitame suurust valides lähtuda enda puusaümbermõõdust! Ja kuna tegemist on üsna pika kleidiga, saame soovi korral kleidi teha sulle sobiva pikkusega. Selleks kirjuta kleidi pikkuse soov tellimuse kommentaari. Kõige korrektsem on mõõt võtta selja tagant, krae keskelt alla välja! Materjal: 95% polüester 5% elastaan. Kleiti soovitame pesta villapesu programmiga, kuivatis kuivatamine keelatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Puusaümbermõõt (inimese mõõt) 87-92 92-98 99-106 105-113 114-126 Toote üldpikkus (cm) 133 135 135 137 137</g:description>
 <g:link>https://nola.ee/toode/sion-roheline/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2026/08/SION-ROH3.png</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/SION-ROH.png</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/SION-ROH2.png</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/SION-ROH1.png</g:additional_image_link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/08/NOLAAW26-62-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/NOLAAW26-64-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/08/NOLAAW26-63-scaled.jpg</g:additional_image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
@@ -1921,7 +1964,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>122.85 EUR</g:sale_price>
+<g:sale_price>94.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>SION-ROOSA-1_37985</g:item_group_id>
@@ -1969,7 +2012,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>96.85 EUR</g:sale_price>
+<g:sale_price>74.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>TESS-SIN-1_37575</g:item_group_id>
@@ -1986,7 +2029,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>96.85 EUR</g:sale_price>
+<g:sale_price>74.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>TESS-SIN-2_37608</g:item_group_id>
@@ -2005,7 +2048,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>96.85 EUR</g:sale_price>
+<g:sale_price>74.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>TESS-TERRACOTTA_31304</g:item_group_id>
@@ -2023,7 +2066,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>96.85 EUR</g:sale_price>
+<g:sale_price>74.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>LÕPUMÜÜK-2026</g:product_type>
 <g:item_group_id>TESS-VLG_36353</g:item_group_id>
