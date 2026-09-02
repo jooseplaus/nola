@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Wed, 02 Sep 2026 05:10:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 10:02:12 +0000</lastBuildDate>
 <item>
 <g:id>ALICE-1_38551</g:id>
 <g:title>Kleit Alice</g:title>
@@ -136,7 +136,7 @@
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-MUST_35709</g:item_group_id>
 </item>
 <item>
@@ -150,7 +150,7 @@
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-PUNANE_39853</g:item_group_id>
 </item>
 <item>
@@ -165,7 +165,7 @@
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-ROHELINE_39864</g:item_group_id>
 </item>
 <item>
@@ -314,7 +314,7 @@
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>JAD-PRUUN_39677</g:item_group_id>
 </item>
 <item>
@@ -545,7 +545,7 @@
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KIM-KL-PRUUN_39747</g:item_group_id>
 </item>
 <item>
@@ -655,7 +655,7 @@
 <g:condition>new</g:condition>
 <g:price>349.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-MALIN-VALGE_39937</g:item_group_id>
 </item>
 <item>
@@ -673,7 +673,7 @@
 <g:condition>new</g:condition>
 <g:price>349.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-MALIN_39903</g:item_group_id>
 </item>
 <item>
@@ -691,7 +691,7 @@
 <g:condition>new</g:condition>
 <g:price>229.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-UMA_39889</g:item_group_id>
 </item>
 <item>
@@ -1042,7 +1042,7 @@
 <g:condition>new</g:condition>
 <g:price>369.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MAE-KLEIT-LILLA_39946</g:item_group_id>
 </item>
 <item>
@@ -1329,7 +1329,7 @@
 <g:condition>new</g:condition>
 <g:price>165.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MOON_39831</g:item_group_id>
 </item>
 <item>
@@ -1639,7 +1639,7 @@
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
+<g:product_type>Naised &gt; T-särgid/Pluusid &gt; UUS</g:product_type>
 <g:item_group_id>PLUUS-MALIN-VALGE_39943</g:item_group_id>
 </item>
 <item>
@@ -1889,7 +1889,7 @@
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-PRUUN_39709</g:item_group_id>
 </item>
 <item>
@@ -1905,7 +1905,7 @@
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-ROHELINE_39698</g:item_group_id>
 </item>
 <item>
@@ -1939,7 +1939,7 @@
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
 <g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-TUMELILLA_39720</g:item_group_id>
 </item>
 <item>
