@@ -4,7 +4,7 @@
 <title>Nola Studio - Suomi</title>
 <link>https://nola.ee/fi/</link>
 <description>Nola Studio tuotesyote Meta-mainontaa varten (Suomi)</description>
-<lastBuildDate>Mon, 14 Sep 2026 07:16:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 14:29:37 +0000</lastBuildDate>
 <item>
 <g:id>AIKO-PUKSID-BE_30905_fi</g:id>
 <g:title>Aiko-housut beigeinä</g:title>
@@ -705,7 +705,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>25.00 EUR</g:price>
-<g:sale_price>17.50 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kinkekaart</g:product_type>
 <g:item_group_id>KINK-25_2504_fi</g:item_group_id>
@@ -720,7 +719,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>50.00 EUR</g:price>
-<g:sale_price>35.00 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kinkekaart</g:product_type>
 <g:item_group_id>KINK-50_2263_fi</g:item_group_id>
