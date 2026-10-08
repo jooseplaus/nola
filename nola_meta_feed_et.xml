@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Thu, 08 Oct 2026 00:31:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 06:45:31 +0000</lastBuildDate>
 <item>
 <g:id>AIKO-PUKSID-BE_30905</g:id>
 <g:title>Aiko püksid beez</g:title>
@@ -113,6 +113,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>259.00 EUR</g:price>
+<g:sale_price>194.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>ALICE-1_38551</g:item_group_id>
@@ -146,6 +147,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
+<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>ELIZA-MST_27489</g:item_group_id>
@@ -164,6 +166,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
+<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>ELIZA-VLG_27421</g:item_group_id>
@@ -179,6 +182,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
+<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-MUST_35709</g:item_group_id>
@@ -193,6 +197,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
+<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-PUNANE_39853</g:item_group_id>
@@ -208,6 +213,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
+<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-ROHELINE_39864</g:item_group_id>
@@ -324,6 +330,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
+<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>JAD-PRUUN_39677</g:item_group_id>
@@ -340,6 +347,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
+<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JAD-TER_20588</g:item_group_id>
@@ -354,6 +362,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
+<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-BOR_16338</g:item_group_id>
@@ -371,6 +380,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
+<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-MST_1767</g:item_group_id>
@@ -385,6 +395,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
+<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-ROHELINE_40395</g:item_group_id>
@@ -399,6 +410,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
+<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-TS_1755</g:item_group_id>
@@ -478,6 +490,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KIM-KL-BEEZ_40768</g:item_group_id>
@@ -493,6 +506,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-BOR_16757</g:item_group_id>
@@ -523,6 +537,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-KHK_20538</g:item_group_id>
@@ -540,6 +555,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-MST_1773</g:item_group_id>
@@ -554,6 +570,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-PLM_34051</g:item_group_id>
@@ -567,6 +584,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KIM-KL-PRUUN_39747</g:item_group_id>
@@ -584,6 +602,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-PUN_28167</g:item_group_id>
@@ -599,6 +618,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-TAUP_30453</g:item_group_id>
@@ -617,6 +637,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-TUMSIN_10219</g:item_group_id>
@@ -632,6 +653,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
+<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-VLG_22572</g:item_group_id>
@@ -677,6 +699,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>349.00 EUR</g:price>
+<g:sale_price>261.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-MALIN-VALGE_39937</g:item_group_id>
@@ -695,6 +718,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>349.00 EUR</g:price>
+<g:sale_price>261.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-MALIN_39903</g:item_group_id>
@@ -709,6 +733,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>229.00 EUR</g:price>
+<g:sale_price>171.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-UMA-MUST_40778</g:item_group_id>
@@ -727,6 +752,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>229.00 EUR</g:price>
+<g:sale_price>171.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-UMA_39889</g:item_group_id>
@@ -823,6 +849,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
+<g:sale_price>104.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-MINI-KHK_28221</g:item_group_id>
@@ -840,6 +867,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
+<g:sale_price>104.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-MINI-MST_26835</g:item_group_id>
@@ -857,6 +885,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
+<g:sale_price>104.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-MINI-TAUP_30577</g:item_group_id>
@@ -874,6 +903,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
+<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-MST_24902</g:item_group_id>
@@ -890,6 +920,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
+<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-PUN_24738</g:item_group_id>
@@ -907,6 +938,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
+<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-VLG_26851</g:item_group_id>
@@ -1028,6 +1060,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>269.00 EUR</g:price>
+<g:sale_price>201.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LULU_34033</g:item_group_id>
@@ -1042,6 +1075,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>369.00 EUR</g:price>
+<g:sale_price>276.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MAE-KLEIT-LILLA_39946</g:item_group_id>
@@ -1057,6 +1091,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>369.00 EUR</g:price>
+<g:sale_price>276.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MAE-KLEIT-MUST_39963</g:item_group_id>
@@ -1406,6 +1441,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>165.00 EUR</g:price>
+<g:sale_price>123.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MOON_39831</g:item_group_id>
@@ -1441,6 +1477,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
+<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>NATA-MST_19444</g:item_group_id>
@@ -1459,6 +1496,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
+<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>NATA-PUN_34916</g:item_group_id>
@@ -1942,6 +1980,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
+<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-BE_34007</g:item_group_id>
@@ -1957,6 +1996,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-ECRU-1_38200</g:item_group_id>
@@ -2008,6 +2048,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-MUST-1_38214</g:item_group_id>
@@ -2026,6 +2067,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-PRUUN_39709</g:item_group_id>
@@ -2041,6 +2083,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-ROHELINE_39698</g:item_group_id>
@@ -2075,6 +2118,7 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
+<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-TUMELILLA_39720</g:item_group_id>
