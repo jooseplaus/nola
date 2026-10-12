@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Mon, 12 Oct 2026 02:51:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 09:53:03 +0000</lastBuildDate>
 <item>
 <g:id>AIKO-PUKSID-BE_30905</g:id>
 <g:title>Aiko püksid beez</g:title>
@@ -113,7 +113,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>259.00 EUR</g:price>
-<g:sale_price>194.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>ALICE-1_38551</g:item_group_id>
@@ -147,7 +146,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>ELIZA-MST_27489</g:item_group_id>
@@ -166,7 +164,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>ELIZA-VLG_27421</g:item_group_id>
@@ -182,7 +179,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-MUST_35709</g:item_group_id>
@@ -197,7 +193,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-PUNANE_39853</g:item_group_id>
@@ -213,7 +208,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>GIA-KLEIT-ROHELINE_39864</g:item_group_id>
@@ -330,7 +324,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>JAD-PRUUN_39677</g:item_group_id>
@@ -347,7 +340,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JAD-TER_20588</g:item_group_id>
@@ -362,7 +354,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-BOR_16338</g:item_group_id>
@@ -380,7 +371,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-MST_1767</g:item_group_id>
@@ -395,7 +385,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-ROHELINE_40395</g:item_group_id>
@@ -410,7 +399,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>149.00 EUR</g:price>
-<g:sale_price>111.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>JADE-TS_1755</g:item_group_id>
@@ -465,22 +453,6 @@
 <g:item_group_id>KIM-JAK-MST_2005</g:item_group_id>
 </item>
 <item>
-<g:id>KIM-JAK-TAUP_30571</g:id>
-<g:title>Nola kimonojakk taupe</g:title>
-<g:description>Nola kimonojakk on üks meie populaarsemaid tooteid, see lühike, kimono stiilis punta kangast tehtud jakk on saanud meie klientide lemmikuks. Jakk on kantav nii argipäeval teksadega kui ka pidulikumal üritusel kleidi peal. Kimonojakil on kaasas vöö. Nola kimonojakki on võimalik tellida kõigis kimonokleidi toonides. Kirjuta tellimuse kommentaari, mis tooni kimonojakki soovid. Materjal: 60% viskoos, 35% polüester, 5% elastaan. Pesta 30 kraadises vees. Triikimine lubatud pahemalt poolt. Tarneaeg: 1-2 tööpäeva. Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S-M L-XL Rinnaümbermõõt (inimese mõõt) 80-86 87-98 99-118 Toote üldpikkus (cm) 64 64 64</g:description>
-<g:link>https://nola.ee/toode/nola-kimonojakk-taupe/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2025/02/DSC03724-scaled.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC03735-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC03731-scaled.jpeg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC03716-scaled.jpg</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>129.00 EUR</g:price>
-<g:brand>Nola</g:brand>
-<g:product_type>Kimonod / Jakid &gt; Naised</g:product_type>
-<g:item_group_id>KIM-JAK-TAUP_30571</g:item_group_id>
-</item>
-<item>
 <g:id>KIM-KL-BEEZ_40768</g:id>
 <g:title>Nola kimonokleit beež</g:title>
 <g:description>Nola kimonokleit on meie üks müüdavamaid kleite just oma väga erineva kehatüübiga sobiva wrap-on lõike tõttu. See lõige tõesti toimib, kui oled rinnakam või puusakam, soovid oma taljet rõhutada või mitte, kõik sobib, see on kleit mis istub kui valatult. Kimonokleit on valmistatud veidi paksemast vähekortsuvast kangast ning loomulikult on kleidil taskud. Tegemist on keskmisest avarama lõikega, suurust valides võta seda kindlasti arvesse. Materjal: 60% viskoos, 35% polüester, 5% elastaan. Kleiti pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud pahemalt poolt. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõ (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Toote üldpikkus (cm) 113 115 117 119 119</g:description>
@@ -490,7 +462,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KIM-KL-BEEZ_40768</g:item_group_id>
@@ -506,7 +477,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-BOR_16757</g:item_group_id>
@@ -537,7 +507,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-KHK_20538</g:item_group_id>
@@ -555,7 +524,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-MST_1773</g:item_group_id>
@@ -570,7 +538,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-PLM_34051</g:item_group_id>
@@ -584,7 +551,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KIM-KL-PRUUN_39747</g:item_group_id>
@@ -602,26 +568,9 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-PUN_28167</g:item_group_id>
-</item>
-<item>
-<g:id>KIM-KL-TAUP_30453</g:id>
-<g:title>Nola kimonokleit taupe</g:title>
-<g:description>Nola kimonokleit on meie üks müüdavamaid kleite just oma väga erineva kehatüübiga sobiva wrap-on lõike tõttu. See lõige tõesti toimib, kui oled rinnakam või puusakam, soovid oma taljet rõhutada või mitte, kõik sobib, see on kleit mis istub kui valatult. Kimonokleit on valmistatud veidi paksemast vähekortsuvast kangast ning loomulikult on kleidil taskud. Tegemist on keskmisest avarama lõikega, suurust valides võta seda kindlasti arvesse. Materjal: 60% viskoos, 35% polüester, 5% elastaan. Kleiti pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud pahemalt poolt. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõ (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Toote üldpikkus (cm) 113 115 117 119 119</g:description>
-<g:link>https://nola.ee/toode/nola-kimonokleit-taupe/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2025/02/DSC03484-scaled.webp</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC03508-scaled.webp</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC03487-scaled.webp</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
-<g:item_group_id>KIM-KL-TAUP_30453</g:item_group_id>
 </item>
 <item>
 <g:id>KIM-KL-TUMSIN_10219</g:id>
@@ -637,7 +586,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-TUMSIN_10219</g:item_group_id>
@@ -653,7 +601,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>KIM-KL-VLG_22572</g:item_group_id>
@@ -699,7 +646,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>349.00 EUR</g:price>
-<g:sale_price>261.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-MALIN-VALGE_39937</g:item_group_id>
@@ -718,7 +664,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>349.00 EUR</g:price>
-<g:sale_price>261.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-MALIN_39903</g:item_group_id>
@@ -734,7 +679,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
-<g:sale_price>126.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-NEA-MUST_40894</g:item_group_id>
@@ -749,7 +693,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>229.00 EUR</g:price>
-<g:sale_price>171.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-UMA-MUST_40778</g:item_group_id>
@@ -768,7 +711,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>229.00 EUR</g:price>
-<g:sale_price>171.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>KLEIT-UMA_39889</g:item_group_id>
@@ -865,7 +807,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
-<g:sale_price>104.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-MINI-KHK_28221</g:item_group_id>
@@ -883,28 +824,9 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>139.00 EUR</g:price>
-<g:sale_price>104.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-MINI-MST_26835</g:item_group_id>
-</item>
-<item>
-<g:id>LILY-MINI-TAUP_30577</g:id>
-<g:title>Kleit Lily mini taupe</g:title>
-<g:description>Lily on A-lõikeline taskute ja effektsete varrukatega kleit. Kleidi avar kehaosa tagab selle, et kleit sobib hästi väga erineva kehakujuga, ent kui soovid rõhutada nt taljet saab kleidile lisada ka vöö. Uhked suured varrukad annavad kleidile iseloomu ja isikupära. Kleidile võimalik juurde tellida ka vöö: https://nola.ee/toode/voo/ *Kleiti võimalik tellida ka tumesinist, bordoo, ecru valget tooni. Märgi soovitud värv tellimuse kommentaari. Materjal: 60% viskoos, 35% polüester, 5% elstaan. Pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud madalal temperatuuril pahemalt poolt. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Toote üldpikkus (cm) 90 92 92 94 96</g:description>
-<g:link>https://nola.ee/toode/kleit-lily-mini-taupe/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2025/02/DSC02410-scaled.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC02377-scaled.jpeg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC02392-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC02368-scaled.webp</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/02/DSC02405-scaled.webp</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>139.00 EUR</g:price>
-<g:sale_price>104.25 EUR</g:sale_price>
-<g:brand>Nola</g:brand>
-<g:product_type>Kleidid &gt; Naised</g:product_type>
-<g:item_group_id>LILY-MINI-TAUP_30577</g:item_group_id>
 </item>
 <item>
 <g:id>LILY-MST_24902</g:id>
@@ -919,7 +841,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
-<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-MST_24902</g:item_group_id>
@@ -936,7 +857,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
-<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-PUN_24738</g:item_group_id>
@@ -954,7 +874,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
-<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LILY-VLG_26851</g:item_group_id>
@@ -1076,7 +995,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>269.00 EUR</g:price>
-<g:sale_price>201.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>LULU_34033</g:item_group_id>
@@ -1091,7 +1009,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>369.00 EUR</g:price>
-<g:sale_price>276.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MAE-KLEIT-LILLA_39946</g:item_group_id>
@@ -1107,7 +1024,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>369.00 EUR</g:price>
-<g:sale_price>276.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MAE-KLEIT-MUST_39963</g:item_group_id>
@@ -1457,7 +1373,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>165.00 EUR</g:price>
-<g:sale_price>123.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>MOON_39831</g:item_group_id>
@@ -1493,7 +1408,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
-<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>NATA-MST_19444</g:item_group_id>
@@ -1512,7 +1426,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>159.00 EUR</g:price>
-<g:sale_price>119.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>NATA-PUN_34916</g:item_group_id>
@@ -1663,20 +1576,6 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
 <g:item_group_id>NOMI-PUN_5691</g:item_group_id>
-</item>
-<item>
-<g:id>NOMI-TAUPE_30996</g:id>
-<g:title>T-särk Nomi taupe</g:title>
-<g:description>Nomi on mõnusalt avar, oversize mõõdus veidi paksemast, punta kangast t-särk millel puuduvad õmblused varruka äärtes, all ääres ning krael. Kuna tegemist on mittehargneva kangaga, siis on sul vajadusel võimalus lõigata t-särk just sinule sobivasse pikkusesse või muuta nt varruka pikkust. Materjal: 60% viskoos, 35% polüester, 5% elastaan. T-särki pesta käsitsi. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus S M L Rinnaümbermõõt cm (inimese mõõt) 87-92 93-98 99-105 Toote üldpikkus (cm) 60 62 62</g:description>
-<g:link>https://nola.ee/toode/t-sark-nomi-taupe/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2025/03/6A2CA692-09E7-4A2F-90BC-A2DFCC58AB60.png</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/03/IMG_6366-scaled.webp</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>59.00 EUR</g:price>
-<g:brand>Nola</g:brand>
-<g:product_type>Naised &gt; T-särgid/Pluusid</g:product_type>
-<g:item_group_id>NOMI-TAUPE_30996</g:item_group_id>
 </item>
 <item>
 <g:id>NOMI-VLG_5139</g:id>
@@ -1996,7 +1895,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>179.00 EUR</g:price>
-<g:sale_price>134.25 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-BE_34007</g:item_group_id>
@@ -2012,7 +1910,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-ECRU-1_38200</g:item_group_id>
@@ -2064,7 +1961,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>SION-MUST-1_38214</g:item_group_id>
@@ -2083,7 +1979,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-PRUUN_39709</g:item_group_id>
@@ -2099,7 +1994,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-ROHELINE_39698</g:item_group_id>
@@ -2134,7 +2028,6 @@
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>189.00 EUR</g:price>
-<g:sale_price>141.75 EUR</g:sale_price>
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
 <g:item_group_id>SION-TUMELILLA_39720</g:item_group_id>
