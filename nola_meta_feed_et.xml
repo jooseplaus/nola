@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Wed, 25 Nov 2026 05:07:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 16:17:15 +0000</lastBuildDate>
 <item>
 <g:id>AIKO-SET-BEEZ_30611</g:id>
 <g:title>Aiko set beež</g:title>
@@ -55,23 +55,6 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Kleidid &gt; Naised</g:product_type>
 <g:item_group_id>ALICE-1_38551</g:item_group_id>
-</item>
-<item>
-<g:id>ARAN-MEN-MST_31594</g:id>
-<g:title>T-särk Aran</g:title>
-<g:description>Nola ARAN t-särk on oversize mõõdus klassikaline meetse t-särk. Materjal: 95 % vpuuvill 5% elastaan. Pesta 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus S M L Rinnaümbermõõt 96 99 106 Üldpikkus 65 67 69</g:description>
-<g:link>https://nola.ee/toode/t-sark-aran-must/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2025/03/DSC04052-scaled.jpeg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/03/DSC04077-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/03/DSC04091-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/03/DSC04059-scaled.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2025/03/DSC04053-scaled.jpg</g:additional_image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>79.00 EUR</g:price>
-<g:brand>Nola</g:brand>
-<g:product_type>T-särgid</g:product_type>
-<g:item_group_id>ARAN-MEN-MST_31594</g:item_group_id>
 </item>
 <item>
 <g:id>BALACLAVA_41089</g:id>
@@ -1344,6 +1327,19 @@
 <g:item_group_id>NATA-PUN_34916</g:item_group_id>
 </item>
 <item>
+<g:id>NATALI-BORDOO_41707</g:id>
+<g:title>Kleit Natali bordoo</g:title>
+<g:description>Natali on klassikalise lõikega ja efektsete varrukatega taskutega kleit. Kleidi seelikuosa rõhutab naiselikku kehakuju, tuues esile talje- ning puusajoone. Materjal: 60% viskoos, 35% polüester, 5% elastaan. Kleiti pesta õrna programmiga, pahempidi pööratult 30 kraadises vees, triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Toote üldpikkus (cm) 103 105 105 106 106</g:description>
+<g:link>https://nola.ee/toode/kleit-natali-bordoo/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/11/029EDFFC-AD19-4E47-A939-E95D006AB802.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>159.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Kleidid &gt; Naised</g:product_type>
+<g:item_group_id>NATALI-BORDOO_41707</g:item_group_id>
+</item>
+<item>
 <g:id>NET-MST-PV_13523</g:id>
 <g:title>Neta t-särk pika varrukaga</g:title>
 <g:description>Nola Neta pika varrukaga t-särk on õhukesest mesh kangast läbipaistev t-särk millele annab isikupära varrukal asuv pöidla ava. Toote pildil olev t-särgi all kantav top ei kuulu t-särgi juurde. Materjal: 100% polüester. Särki pesta 40 kraadises vees. Triikimist toode ei vaja. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus S M L Rinnaümbermõõt cm (inimese mõõt) 87-92 93-98 99-105 Toote üldpikkus (cm) 58 59 61</g:description>
@@ -2151,20 +2147,47 @@
 <g:item_group_id>THEA-KLEIT-MUST_41303</g:item_group_id>
 </item>
 <item>
-<g:id>THOR-ME-M_2348</g:id>
-<g:title>T-särk THOR must</g:title>
-<g:description>Nola THOR T-särk on õmmeldud Ökotex märgistusega puuvillasest kangast. T-särk on oversize mõõdus. Pildil olev modell kannab M suurus T-särki. Materjal: 95% puuvill, 5% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus S M L Rinnaümbermõõt 96 99 106 Üldpikkus 63 67 67</g:description>
-<g:link>https://nola.ee/toode/t-sark-thor-must-meeste/</g:link>
-<g:image_link>https://nola.ee/wp-content/uploads/2023/02/W2A9623v.jpg</g:image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2023/02/W2A9670v.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2023/02/W2A9640v.jpg</g:additional_image_link>
-<g:additional_image_link>https://nola.ee/wp-content/uploads/2023/02/W2A9630v.jpg</g:additional_image_link>
+<g:id>THEA-KLEIT-PLOOMILILLA_41658</g:id>
+<g:title>Thea kleit ploomililla</g:title>
+<g:description>Thea on klassikaline väike kontorikleit. Alt veidi kitseneva cocoon õikega, mõnusate taskutega ja v kaelusega kleit istub kui valatult väga erineva kehatüübiga naistele. Küünarnukini ulatuv varrukas sobitub ideaalselt veidi avarama kehaosaga. Materjal: 60% viskoos, 35% polüester, 5% elastaan. Kleiti pesta pahempidi pööratult 30 kraadises vees. Triikimine lubatud pahemalt poolt. Tarneaeg: 7-10 tööpäeva. Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Rinnaümbermõõt (inimese mõõt) 84-88 85-95 96-99 100-107 108-120 Puusaümbermõõt (inimese mõõt) 90-94 95-99 100-106 107-113 114-122 Üldpikkus (cm) 101 102 104 104 106</g:description>
+<g:link>https://nola.ee/toode/thea-kleit-ploomililla/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/11/nola_ploomililla_originaal.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/11/nola_ploomililla_kylgvaade-e1795615619403.jpg</g:additional_image_link>
 <g:availability>in stock</g:availability>
 <g:condition>new</g:condition>
-<g:price>79.00 EUR</g:price>
+<g:price>159.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>Kleidid &gt; Naised &gt; UUS</g:product_type>
+<g:item_group_id>THEA-KLEIT-PLOOMILILLA_41658</g:item_group_id>
+</item>
+<item>
+<g:id>THOR-ME-M_2348</g:id>
+<g:title>T-särk THOR must</g:title>
+<g:description>Nola THOR T-särk on õmmeldud Ökotex märgistusega puuvillasest kangast. T-särk on oversize mõõdus. Pildil olev modell kannab M suurus T-särki. Materjal: 95% puuvill, 5% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus S M L Rinnaümbermõõt 96 99 106 Üldpikkus 63 65 67</g:description>
+<g:link>https://nola.ee/toode/t-sark-thor-must-meeste/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2021/12/DE24CB73-723E-4163-AC5E-A760AAEB3FCA.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2021/12/CE570CC3-3321-45FE-A86F-BD24053198E9.png</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2021/12/A2483390-F398-45FB-BCA8-9ABC91E4DFD0.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>89.00 EUR</g:price>
 <g:brand>Nola</g:brand>
 <g:product_type>T-särgid</g:product_type>
 <g:item_group_id>THOR-ME-M_2348</g:item_group_id>
+</item>
+<item>
+<g:id>THOR-VALGE_41677</g:id>
+<g:title>T-särk THOR valge</g:title>
+<g:description>Nola THOR T-särk on õmmeldud Ökotex märgistusega puuvillasest kangast. T-särk on oversize mõõdus. Pildil olev modell kannab M suurus T-särki. Materjal: 95% puuvill, 5% elastaan. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus S M L Rinnaümbermõõt 96 99 106 Üldpikkus 63 65 67</g:description>
+<g:link>https://nola.ee/toode/t-sark-thor-valge/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2026/11/343D7A71-EF15-40C1-87DF-12A64D33352A.png</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/11/01C1A589-69C8-416A-9143-6B96D922CE5D.png</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>89.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>T-särgid</g:product_type>
+<g:item_group_id>THOR-VALGE_41677</g:item_group_id>
 </item>
 <item>
 <g:id>TSARK-KAY-MST_26992</g:id>
