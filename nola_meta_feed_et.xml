@@ -4,7 +4,7 @@
 <title>Nola Studio - Eesti</title>
 <link>https://nola.ee/</link>
 <description>Nola Studio tootefeed Meta reklaamide jaoks (Eesti)</description>
-<lastBuildDate>Thu, 26 Nov 2026 08:59:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 18:47:55 +0000</lastBuildDate>
 <item>
 <g:id>AIKO-SET-BEEZ_30611</g:id>
 <g:title>Aiko set beež</g:title>
@@ -240,7 +240,7 @@
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00453-scaled.jpg</g:additional_image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00455-scaled.jpg</g:additional_image_link>
 <g:additional_image_link>https://nola.ee/wp-content/uploads/2024/10/DSC00440-scaled.jpg</g:additional_image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:condition>new</g:condition>
 <g:price>169.00 EUR</g:price>
 <g:brand>Nola</g:brand>
@@ -1700,6 +1700,21 @@
 <g:brand>Nola</g:brand>
 <g:product_type>Kimonod / Jakid &gt; Naised</g:product_type>
 <g:item_group_id>SAMET-KIM-ROH_33152</g:item_group_id>
+</item>
+<item>
+<g:id>SAMET-SET_41718</g:id>
+<g:title>Samet set</g:title>
+<g:description>Juhul kui soovid pükse pikemana või lühemana siis märgi palun oma soovitud püksi sisesääre mõõt tellimuse kommentaari. Materjal: 100% polüester. Pesta pahempidi pööratult 40 kraadises vees. Triikimine lubatud. Tarneaeg: 7-10 päeva . Suur osa meie tootevalikust on kohe olemas, ent osa valmib tellimuse peale. Kui sulle on oluline tellimus kätte saada kindlaks kuupäevaks palun anna sellest meile teada. Allahindluse perioodil palume arvestada tarneajaga kuni 14 päeva. Suurus XS S M L XL Särgi üldpikkus (cm) 54 55 55 56 56 Rinnaümbermõõt (inimese mõõt) 82-86 87-92 93-98 99-105 106-120 Pükste sisesäär (cm) 77 79 81 82 82 Vööümbermõõt (inimese mõõt) 68-73 74-79 80-86 87-93 94-100</g:description>
+<g:link>https://nola.ee/toode/samet-set/</g:link>
+<g:image_link>https://nola.ee/wp-content/uploads/2024/11/DSC00786-scaled.jpg</g:image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2026/10/DSC00770-scaled.jpg</g:additional_image_link>
+<g:additional_image_link>https://nola.ee/wp-content/uploads/2024/11/DSC00799-scaled.jpg</g:additional_image_link>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:price>199.00 EUR</g:price>
+<g:brand>Nola</g:brand>
+<g:product_type>loungewear / sleepwear &gt; Naised &gt; Women</g:product_type>
+<g:item_group_id>SAMET-SET_41718</g:item_group_id>
 </item>
 <item>
 <g:id>SAMETPÜKSID_41312</g:id>
